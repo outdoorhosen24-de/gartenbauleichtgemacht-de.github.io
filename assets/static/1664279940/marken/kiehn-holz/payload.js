@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/kiehn-holz", {data:[{_img:{}}],fetch:{},mutations:void 0});
