@@ -1,107 +1,79 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "terrassendielen",
+        "name": "Terrassendielen",
+        "slug": "terrassendielen",
+        "productCategory": "Terrassendielen",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "zubehör für zaunbau & sichtschutz",
+        "name": "Zubehör für Zaunbau & Sichtschutz",
+        "slug": "zubehor-fur-zaunbau-sichtschutz",
+        "productCategory": "Zubehör für Zaunbau & Sichtschutz",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "zierkies & ziersplitt",
+        "name": "Zierkies & Ziersplitt",
+        "slug": "zierkies-ziersplitt",
+        "productCategory": "Zierkies & Ziersplitt",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "gartenzäune",
+        "name": "Gartenzäune",
+        "slug": "gartenzaune",
+        "productCategory": "Gartenzäune",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "einfassungen, stufen & mauersysteme",
+        "name": "Einfassungen, Stufen & Mauersysteme",
+        "slug": "einfassungen-stufen-mauersysteme",
+        "productCategory": "Einfassungen, Stufen & Mauersysteme",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "sichtschutzzäune",
+        "name": "Sichtschutzzäune",
+        "slug": "sichtschutzzaune",
+        "productCategory": "Sichtschutzzäune",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "pflastersteine",
+        "name": "Pflastersteine",
+        "slug": "pflastersteine",
+        "productCategory": "Pflastersteine",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "terrassenplatten & gehwegplatten",
+        "name": "Terrassenplatten & Gehwegplatten",
+        "slug": "terrassenplatten-gehwegplatten",
+        "productCategory": "Terrassenplatten & Gehwegplatten",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "trittsteine",
+        "name": "Trittsteine",
+        "slug": "trittsteine",
+        "productCategory": "Trittsteine",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "holzfliesen",
+        "name": "Holzfliesen",
+        "slug": "holzfliesen",
+        "productCategory": "Holzfliesen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
-        "subCategories": []
-    },
-    {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
-        "subCategories": []
-    },
-    {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "pflanzsteine",
+        "name": "Pflanzsteine",
+        "slug": "pflanzsteine",
+        "productCategory": "Pflanzsteine",
         "subCategories": []
     }
 ]

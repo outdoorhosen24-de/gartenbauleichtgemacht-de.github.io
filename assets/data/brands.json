@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "spax",
+        "name": "Spax",
+        "slug": "spax",
+        "productCategory": "Spax",
+        "localThumb": "/assets/images/hersteller/spax.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "rettenmeier",
+        "name": "Rettenmeier",
+        "slug": "rettenmeier",
+        "productCategory": "Rettenmeier",
+        "localThumb": "/assets/images/hersteller/rettenmeier.webp"
     },
     {
         "key": "sonstige",
@@ -21,11 +21,116 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "tetzner und jentzsch",
+        "name": "Tetzner und Jentzsch",
+        "slug": "tetzner-und-jentzsch",
+        "productCategory": "Tetzner und Jentzsch",
+        "localThumb": "/assets/images/hersteller/tetzner-und-jentzsch.webp"
+    },
+    {
+        "key": "palmako",
+        "name": "Palmako",
+        "slug": "palmako",
+        "productCategory": "Palmako",
+        "localThumb": "/assets/images/hersteller/palmako.webp"
+    },
+    {
+        "key": "andrewex",
+        "name": "Andrewex",
+        "slug": "andrewex",
+        "productCategory": "Andrewex",
+        "localThumb": "/assets/images/hersteller/andrewex.webp"
+    },
+    {
+        "key": "traumgarten",
+        "name": "TraumGarten",
+        "slug": "traumgarten",
+        "productCategory": "TraumGarten",
+        "localThumb": "/assets/images/hersteller/traumgarten.webp"
+    },
+    {
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
+    },
+    {
+        "key": "polargos",
+        "name": "Polargos",
+        "slug": "polargos",
+        "productCategory": "Polargos",
+        "localThumb": "/assets/images/hersteller/polargos.webp"
+    },
+    {
+        "key": "bellissa",
+        "name": "Bellissa",
+        "slug": "bellissa",
+        "productCategory": "Bellissa",
+        "localThumb": "/assets/images/hersteller/bellissa.webp"
+    },
+    {
+        "key": "gabiona",
+        "name": "Gabiona",
+        "slug": "gabiona",
+        "productCategory": "Gabiona",
+        "localThumb": "/assets/images/hersteller/gabiona.webp"
+    },
+    {
+        "key": "groja",
+        "name": "GroJa",
+        "slug": "groja",
+        "productCategory": "GroJa",
+        "localThumb": "/assets/images/hersteller/groja.webp"
+    },
+    {
+        "key": "osmo",
+        "name": "Osmo",
+        "slug": "osmo",
+        "productCategory": "Osmo",
+        "localThumb": "/assets/images/hersteller/osmo.webp"
+    },
+    {
+        "key": "bm massivholz",
+        "name": "BM Massivholz",
+        "slug": "bm-massivholz",
+        "productCategory": "BM Massivholz",
+        "localThumb": "/assets/images/hersteller/bm-massivholz.webp"
+    },
+    {
+        "key": "elephant",
+        "name": "elephant",
+        "slug": "elephant",
+        "productCategory": "elephant",
+        "localThumb": "/assets/images/hersteller/elephant.webp"
+    },
+    {
+        "key": "kann",
+        "name": "Kann",
+        "slug": "kann",
+        "productCategory": "Kann",
+        "localThumb": "/assets/images/hersteller/kann.webp"
+    },
+    {
+        "key": "ehl",
+        "name": "EHL",
+        "slug": "ehl",
+        "productCategory": "EHL",
+        "localThumb": "/assets/images/hersteller/ehl.webp"
+    },
+    {
+        "key": "diephaus",
+        "name": "Diephaus",
+        "slug": "diephaus",
+        "productCategory": "Diephaus",
+        "localThumb": "/assets/images/hersteller/diephaus.webp"
+    },
+    {
+        "key": "kovalex",
+        "name": "Kovalex",
+        "slug": "kovalex",
+        "productCategory": "Kovalex",
+        "localThumb": "/assets/images/hersteller/kovalex.webp"
     },
     {
         "key": "obi",
@@ -35,52 +140,143 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "dimplex",
+        "name": "Dimplex",
+        "slug": "dimplex",
+        "productCategory": "Dimplex",
+        "localThumb": "/assets/images/hersteller/dimplex.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "gardengate",
+        "name": "Gardengate",
+        "slug": "gardengate",
+        "productCategory": "Gardengate",
+        "localThumb": "/assets/images/hersteller/gardengate.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "floraworld",
+        "name": "Floraworld",
+        "slug": "floraworld",
+        "productCategory": "Floraworld",
+        "localThumb": "/assets/images/hersteller/floraworld.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "gartenfreude",
+        "name": "Gartenfreude",
+        "slug": "gartenfreude",
+        "productCategory": "Gartenfreude",
+        "localThumb": "/assets/images/hersteller/gartenfreude.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "indoba",
+        "name": "Indoba",
+        "slug": "indoba",
+        "productCategory": "Indoba",
+        "localThumb": "/assets/images/hersteller/indoba.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "beckers betonzaun",
+        "name": "Beckers Betonzaun",
+        "slug": "beckers-betonzaun",
+        "productCategory": "Beckers Betonzaun",
+        "localThumb": "/assets/images/hersteller/beckers-betonzaun.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "scherf",
+        "name": "Scherf",
+        "slug": "scherf",
+        "productCategory": "Scherf",
+        "localThumb": "/assets/images/hersteller/scherf.webp"
+    },
+    {
+        "key": "gah alberts",
+        "name": "GAH Alberts",
+        "slug": "gah-alberts",
+        "productCategory": "GAH Alberts",
+        "localThumb": "/assets/images/hersteller/gah-alberts.webp"
+    },
+    {
+        "key": "peddy shield",
+        "name": "Peddy Shield",
+        "slug": "peddy-shield",
+        "productCategory": "Peddy Shield",
+        "localThumb": "/assets/images/hersteller/peddy-shield.webp"
+    },
+    {
+        "key": "home deluxe",
+        "name": "Home Deluxe",
+        "slug": "home-deluxe",
+        "productCategory": "Home Deluxe",
+        "localThumb": "/assets/images/hersteller/home-deluxe.webp"
+    },
+    {
+        "key": "rotaplastes",
+        "name": "RoTaPlastes",
+        "slug": "rotaplastes",
+        "productCategory": "RoTaPlastes",
+        "localThumb": "/assets/images/hersteller/rotaplastes.webp"
+    },
+    {
+        "key": "noor",
+        "name": "Noor",
+        "slug": "noor",
+        "productCategory": "Noor",
+        "localThumb": "/assets/images/hersteller/noor.webp"
+    },
+    {
+        "key": "solid",
+        "name": "Solid",
+        "slug": "solid",
+        "productCategory": "Solid",
+        "localThumb": "/assets/images/hersteller/solid.webp"
+    },
+    {
+        "key": "garantia",
+        "name": "Garantia",
+        "slug": "garantia",
+        "productCategory": "Garantia",
+        "localThumb": "/assets/images/hersteller/garantia.webp"
+    },
+    {
+        "key": "florco",
+        "name": "Florco",
+        "slug": "florco",
+        "productCategory": "Florco",
+        "localThumb": "/assets/images/hersteller/florco.webp"
+    },
+    {
+        "key": "christoph",
+        "name": "Christoph",
+        "slug": "christoph",
+        "productCategory": "Christoph",
+        "localThumb": "/assets/images/hersteller/christoph.webp"
+    },
+    {
+        "key": "rettenmeier outdoor wood",
+        "name": "Rettenmeier Outdoor Wood",
+        "slug": "rettenmeier-outdoor-wood",
+        "productCategory": "Rettenmeier Outdoor Wood",
+        "localThumb": "/assets/images/hersteller/rettenmeier-outdoor-wood.webp"
+    },
+    {
+        "key": "andiamo",
+        "name": "Andiamo",
+        "slug": "andiamo",
+        "productCategory": "Andiamo",
+        "localThumb": "/assets/images/hersteller/andiamo.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "kiehn-holz",
+        "name": "Kiehn-Holz",
+        "slug": "kiehn-holz",
+        "productCategory": "Kiehn-Holz",
+        "localThumb": "/assets/images/hersteller/kiehn-holz.webp"
     }
 ]
