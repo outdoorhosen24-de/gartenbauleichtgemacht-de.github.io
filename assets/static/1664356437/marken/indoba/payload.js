@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/indoba", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/indoba-r-oeko-rasenkante-4-m-inkl-18-erdnaegeln-hoehe-45-mm-indoba-8349706-1.jpg":"\u002Fassets\u002Fimages\u002Findoba-r-oeko-rasenkante-4-m-inkl-18-erdnaegeln-hoehe-45-mm-indoba-8349706-1.webp"}}],fetch:{},mutations:void 0});

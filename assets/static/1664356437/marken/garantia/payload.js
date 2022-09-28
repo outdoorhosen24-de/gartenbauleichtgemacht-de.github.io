@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/garantia", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/garantia-rasenkante-edgar-anthrazit-braun-6-stueck-garantia-4794251-1.jpg":"\u002Fassets\u002Fimages\u002Fgarantia-rasenkante-edgar-anthrazit-braun-6-stueck-garantia-4794251-1.webp"}}],fetch:{},mutations:void 0});

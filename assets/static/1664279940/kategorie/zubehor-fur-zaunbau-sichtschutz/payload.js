@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/zubehor-fur-zaunbau-sichtschutz", {data:[{_img:{}}],fetch:{},mutations:void 0});
