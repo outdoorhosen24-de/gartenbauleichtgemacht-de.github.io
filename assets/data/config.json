@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gartenbauleichtgemacht.de",
+    "hostname": "https://www.gartenbauleichtgemacht.de/",
+    "email": "gartenbauleichtgemacht.desurrealnetworks.io",
+    "organization": "gartenbauleichtgemacht.de",
+    "logoText": "Gartenbauleichtgemacht.de",
+    "title": "Gartenbau",
+    "subline": "Der Online Shop f\u00fcr Gartenbau",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "9242199",
+        "5833850",
+        "3394418",
+        "7585078",
+        "1410893",
+        "8505026"
+    ],
+    "winnerProducts": [
+        "5838065",
+        "5831813",
+        "4013751"
+    ],
+    "featuredCategories": [
+        "Zierkies & Ziersplitt",
+        "Terrassenplatten & Gehwegplatten",
+        "Pflanzsteine",
+        "Trittsteine",
+        "Einfassungen, Stufen & Mauersysteme",
+        "Einfassungen, Stufen & Mauersysteme"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenbau",
-        "featureText": "Your featured text goes here",
+        "featureText": "Gartenbau ist ein Fachgesch\u00e4ft f\u00fcr Gartenbedarf und Pflanzen. Hier finden Sie alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Vom Rasenm\u00e4her bis zur Gartenschaufel haben wir alles, was Sie brauchen. Wir f\u00fchren auch eine gro\u00dfe Auswahl an Pflanzen, die perfekt f\u00fcr Ihren Garten geeignet sind. Kommen Sie vorbei und lassen Sie sich von unseren Experten beraten.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten!",
+            "metaDescription": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten! Pflanzen, B\u00e4ume, Str\u00e4ucher, Gartenger\u00e4te und mehr. Schnelle Lieferung und kompetente Beratung.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gartenbau: Die Kunst, einen Garten zu gestalten",
+                    "text": "Gartenbau ist die Kunst, einen Garten anzulegen und zu pflegen. Die meisten Menschen denken, dass Gartenbau nur ein Hobby ist, aber es ist viel mehr als das. Gartenbau ist eine Lebensweise. Es ist eine Kunst, die uns mit der Natur verbindet und uns hilft, uns selbst zu finden.\n\nGartenbau ist eine alte Kunst. Schon die alten R\u00f6mer und Griechen wussten, wie man einen Garten anlegt und pflegt. In den letzten Jahren ist Gartenbau jedoch zu einer modernen Kunstform geworden. Heute gibt es G\u00e4rtner, die ihr ganzes Leben dem Gartenbau widmen. Sie experimentieren mit verschiedenen Pflanzen und Arten, um die perfekte Mischung zu finden.\n\nGartenbau ist nicht nur eine Kunst, sondern auch eine Wissenschaft. G\u00e4rtner m\u00fcssen viel \u00fcber Pflanzen und ihre Bed\u00fcrfnisse lernen. Sie m\u00fcssen wissen, wie man Pflanzen richtig pflegt und w\u00e4ssert. Auch das Klima spielt eine wichtige Rolle beim Gartenbau. G\u00e4rtner m\u00fcssen die richtigen Pflanzen f\u00fcr ihren Garten ausw\u00e4hlen, damit sie in der jeweiligen Klimazone gut gedeihen.\n\nGartenbau ist auch eine Form der Meditation. Viele Menschen finden in der Arbeit mit den Pflanzen eine innere Ruhe. Die N\u00e4he zur Natur hilft ihnen, sich selbst besser kennenzulernen und zu verstehen. Gartenbau ist eine tolle M\u00f6glichkeit,"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten!",
+            "metaDescription": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten! Pflanzen, B\u00e4ume, Str\u00e4ucher, Gartenger\u00e4te und mehr.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenbau manufacturer",
+            "metaDescription": "Gartenbau ist ein deutscher Hersteller von hochwertigen Gartenger\u00e4ten.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT f\u00fcr den Gartenbau",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihren $KATEGORIE. Schnell und einfach zu installieren.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Alles f\u00fcr den Garten - Jetzt online kaufen bei OBI",
+        "defaultMetaDescription": "Gartenbau $KATEGORIE \u2013 Alles f\u00fcr Ihren Garten. Pflanzen, Gartenger\u00e4te und mehr. Jetzt entdecken!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Gartenbaus\u00e4tzen und -zubeh\u00f6r. Wir bieten alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen, von Pflanzen und Blumen \u00fcber Gartenger\u00e4te und -m\u00f6bel bis hin zu Gartenbeleuchtung.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gartenbau",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gartenbau Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gartenbau Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
