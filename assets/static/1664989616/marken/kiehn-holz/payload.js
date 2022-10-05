@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/kiehn-holz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kiehn-holz-natur-rollzaun-haselnuss-500-cm-x-90-cm-kiehn-holz-7538135-1.jpg":"\u002Fassets\u002Fimages\u002Fkiehn-holz-natur-rollzaun-haselnuss-500-cm-x-90-cm-kiehn-holz-7538135-1.webp"}}],fetch:{},mutations:void 0});

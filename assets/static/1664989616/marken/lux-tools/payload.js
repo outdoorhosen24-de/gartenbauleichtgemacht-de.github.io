@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/lux-tools", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-garten-ziergitter-90-cm-x-35-cm-weisz-lux-tools-2043701-1.jpg":"\u002Fassets\u002Fimages\u002Flux-garten-ziergitter-90-cm-x-35-cm-weisz-lux-tools-2043701-1.webp"}}],fetch:{},mutations:void 0});

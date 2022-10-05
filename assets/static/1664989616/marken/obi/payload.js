@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/obi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-terrassenclips-fuer-wpc-terrassendielen-anthrazit-obi-5669882-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-terrassenclips-fuer-wpc-terrassendielen-anthrazit-obi-5669882-1.webp"}}],fetch:{},mutations:void 0});
