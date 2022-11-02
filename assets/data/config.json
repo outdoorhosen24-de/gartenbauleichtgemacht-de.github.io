@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "gartenbauleichtgemacht.de",
     "hostname": "https://www.gartenbauleichtgemacht.de/",
     "email": "gartenbauleichtgemacht.desurrealnetworks.io",
     "organization": "gartenbauleichtgemacht.de",
     "logoText": "Gartenbauleichtgemacht.de",
     "title": "Gartenbau",
-    "subline": "Der Online Shop f\u00fcr Gartenbau",
+    "subline": "Der Online Shop für Gartenbau",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenbau",
-        "featureText": "Gartenbau ist ein Fachgesch\u00e4ft f\u00fcr Gartenbedarf und Pflanzen. Hier finden Sie alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Vom Rasenm\u00e4her bis zur Gartenschaufel haben wir alles, was Sie brauchen. Wir f\u00fchren auch eine gro\u00dfe Auswahl an Pflanzen, die perfekt f\u00fcr Ihren Garten geeignet sind. Kommen Sie vorbei und lassen Sie sich von unseren Experten beraten.",
+        "featureText": "Gartenbau ist ein Fachgeschäft für Gartenbedarf und Pflanzen. Hier finden Sie alles, was Sie für Ihren Garten benötigen. Vom Rasenmäher bis zur Gartenschaufel haben wir alles, was Sie brauchen. Wir führen auch eine große Auswahl an Pflanzen, die perfekt für Ihren Garten geeignet sind. Kommen Sie vorbei und lassen Sie sich von unseren Experten beraten.",
         "index": {
-            "title": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten!",
-            "metaDescription": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten! Pflanzen, B\u00e4ume, Str\u00e4ucher, Gartenger\u00e4te und mehr. Schnelle Lieferung und kompetente Beratung.",
+            "title": "Gartenbau-Shop: Alles für Ihren Garten!",
+            "metaDescription": "Gartenbau-Shop: Alles für Ihren Garten! Pflanzen, Bäume, Sträucher, Gartengeräte und mehr. Schnelle Lieferung und kompetente Beratung.",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Gartenbau: Die Kunst, einen Garten zu gestalten",
-                    "text": "Gartenbau ist die Kunst, einen Garten anzulegen und zu pflegen. Die meisten Menschen denken, dass Gartenbau nur ein Hobby ist, aber es ist viel mehr als das. Gartenbau ist eine Lebensweise. Es ist eine Kunst, die uns mit der Natur verbindet und uns hilft, uns selbst zu finden.\n\nGartenbau ist eine alte Kunst. Schon die alten R\u00f6mer und Griechen wussten, wie man einen Garten anlegt und pflegt. In den letzten Jahren ist Gartenbau jedoch zu einer modernen Kunstform geworden. Heute gibt es G\u00e4rtner, die ihr ganzes Leben dem Gartenbau widmen. Sie experimentieren mit verschiedenen Pflanzen und Arten, um die perfekte Mischung zu finden.\n\nGartenbau ist nicht nur eine Kunst, sondern auch eine Wissenschaft. G\u00e4rtner m\u00fcssen viel \u00fcber Pflanzen und ihre Bed\u00fcrfnisse lernen. Sie m\u00fcssen wissen, wie man Pflanzen richtig pflegt und w\u00e4ssert. Auch das Klima spielt eine wichtige Rolle beim Gartenbau. G\u00e4rtner m\u00fcssen die richtigen Pflanzen f\u00fcr ihren Garten ausw\u00e4hlen, damit sie in der jeweiligen Klimazone gut gedeihen.\n\nGartenbau ist auch eine Form der Meditation. Viele Menschen finden in der Arbeit mit den Pflanzen eine innere Ruhe. Die N\u00e4he zur Natur hilft ihnen, sich selbst besser kennenzulernen und zu verstehen. Gartenbau ist eine tolle M\u00f6glichkeit,"
+                    "text": "Gartenbau ist die Kunst, einen Garten anzulegen und zu pflegen. Die meisten Menschen denken, dass Gartenbau nur ein Hobby ist, aber es ist viel mehr als das. Gartenbau ist eine Lebensweise. Es ist eine Kunst, die uns mit der Natur verbindet und uns hilft, uns selbst zu finden.\n\nGartenbau ist eine alte Kunst. Schon die alten Römer und Griechen wussten, wie man einen Garten anlegt und pflegt. In den letzten Jahren ist Gartenbau jedoch zu einer modernen Kunstform geworden. Heute gibt es Gärtner, die ihr ganzes Leben dem Gartenbau widmen. Sie experimentieren mit verschiedenen Pflanzen und Arten, um die perfekte Mischung zu finden.\n\nGartenbau ist nicht nur eine Kunst, sondern auch eine Wissenschaft. Gärtner müssen viel über Pflanzen und ihre Bedürfnisse lernen. Sie müssen wissen, wie man Pflanzen richtig pflegt und wässert. Auch das Klima spielt eine wichtige Rolle beim Gartenbau. Gärtner müssen die richtigen Pflanzen für ihren Garten auswählen, damit sie in der jeweiligen Klimazone gut gedeihen.\n\nGartenbau ist auch eine Form der Meditation. Viele Menschen finden in der Arbeit mit den Pflanzen eine innere Ruhe. Die Nähe zur Natur hilft ihnen, sich selbst besser kennenzulernen und zu verstehen. Gartenbau ist eine tolle Möglichkeit,"
                 }
             ]
         },
         "shop": {
-            "title": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten!",
-            "metaDescription": "Gartenbau-Shop: Alles f\u00fcr Ihren Garten! Pflanzen, B\u00e4ume, Str\u00e4ucher, Gartenger\u00e4te und mehr.",
+            "title": "Gartenbau-Shop: Alles für Ihren Garten!",
+            "metaDescription": "Gartenbau-Shop: Alles für Ihren Garten! Pflanzen, Bäume, Sträucher, Gartengeräte und mehr.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Gartenbau manufacturer",
-            "metaDescription": "Gartenbau ist ein deutscher Hersteller von hochwertigen Gartenger\u00e4ten.",
+            "metaDescription": "Gartenbau ist ein deutscher Hersteller von hochwertigen Gartengeräten.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT f\u00fcr den Gartenbau",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihren $KATEGORIE. Schnell und einfach zu installieren.",
+        "defaultTitle": "$PRODUKT für den Gartenbau",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihren $KATEGORIE. Schnell und einfach zu installieren.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Alles f\u00fcr den Garten - Jetzt online kaufen bei OBI",
-        "defaultMetaDescription": "Gartenbau $KATEGORIE \u2013 Alles f\u00fcr Ihren Garten. Pflanzen, Gartenger\u00e4te und mehr. Jetzt entdecken!",
+        "defaultTitle": "$KATEGORIE: Alles für den Garten - Jetzt online kaufen bei OBI",
+        "defaultMetaDescription": "Gartenbau $KATEGORIE – Alles für Ihren Garten. Pflanzen, Gartengeräte und mehr. Jetzt entdecken!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Gartenbaus\u00e4tzen und -zubeh\u00f6r. Wir bieten alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen, von Pflanzen und Blumen \u00fcber Gartenger\u00e4te und -m\u00f6bel bis hin zu Gartenbeleuchtung.",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Gartenbausätzen und -zubehör. Wir bieten alles, was Sie für Ihren Garten benötigen, von Pflanzen und Blumen über Gartengeräte und -möbel bis hin zu Gartenbeleuchtung.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
