@@ -51,12 +51,15 @@
             "title": "Gartenbau-Shop: Alles für Ihren Garten!",
             "metaDescription": "Gartenbau-Shop: Alles für Ihren Garten! Pflanzen, Bäume, Sträucher, Gartengeräte und mehr. Schnelle Lieferung und kompetente Beratung.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Gartenbau: Die Kunst, einen Garten zu gestalten",
-                    "text": "Gartenbau ist die Kunst, einen Garten anzulegen und zu pflegen. Die meisten Menschen denken, dass Gartenbau nur ein Hobby ist, aber es ist viel mehr als das. Gartenbau ist eine Lebensweise. Es ist eine Kunst, die uns mit der Natur verbindet und uns hilft, uns selbst zu finden.\n\nGartenbau ist eine alte Kunst. Schon die alten Römer und Griechen wussten, wie man einen Garten anlegt und pflegt. In den letzten Jahren ist Gartenbau jedoch zu einer modernen Kunstform geworden. Heute gibt es Gärtner, die ihr ganzes Leben dem Gartenbau widmen. Sie experimentieren mit verschiedenen Pflanzen und Arten, um die perfekte Mischung zu finden.\n\nGartenbau ist nicht nur eine Kunst, sondern auch eine Wissenschaft. Gärtner müssen viel über Pflanzen und ihre Bedürfnisse lernen. Sie müssen wissen, wie man Pflanzen richtig pflegt und wässert. Auch das Klima spielt eine wichtige Rolle beim Gartenbau. Gärtner müssen die richtigen Pflanzen für ihren Garten auswählen, damit sie in der jeweiligen Klimazone gut gedeihen.\n\nGartenbau ist auch eine Form der Meditation. Viele Menschen finden in der Arbeit mit den Pflanzen eine innere Ruhe. Die Nähe zur Natur hilft ihnen, sich selbst besser kennenzulernen und zu verstehen. Gartenbau ist eine tolle Möglichkeit,"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Gartenbau: Die Kunst, einen Garten zu gestalten",
+                        "text": "Gartenbau ist die Kunst, einen Garten anzulegen und zu pflegen. Die meisten Menschen denken, dass Gartenbau nur ein Hobby ist, aber es ist viel mehr als das. Gartenbau ist eine Lebensweise. Es ist eine Kunst, die uns mit der Natur verbindet und uns hilft, uns selbst zu finden.\n\nGartenbau ist eine alte Kunst. Schon die alten Römer und Griechen wussten, wie man einen Garten anlegt und pflegt. In den letzten Jahren ist Gartenbau jedoch zu einer modernen Kunstform geworden. Heute gibt es Gärtner, die ihr ganzes Leben dem Gartenbau widmen. Sie experimentieren mit verschiedenen Pflanzen und Arten, um die perfekte Mischung zu finden.\n\nGartenbau ist nicht nur eine Kunst, sondern auch eine Wissenschaft. Gärtner müssen viel über Pflanzen und ihre Bedürfnisse lernen. Sie müssen wissen, wie man Pflanzen richtig pflegt und wässert. Auch das Klima spielt eine wichtige Rolle beim Gartenbau. Gärtner müssen die richtigen Pflanzen für ihren Garten auswählen, damit sie in der jeweiligen Klimazone gut gedeihen.\n\nGartenbau ist auch eine Form der Meditation. Viele Menschen finden in der Arbeit mit den Pflanzen eine innere Ruhe. Die Nähe zur Natur hilft ihnen, sich selbst besser kennenzulernen und zu verstehen. Gartenbau ist eine tolle Möglichkeit,"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Gartenbau-Shop: Alles für Ihren Garten!",
