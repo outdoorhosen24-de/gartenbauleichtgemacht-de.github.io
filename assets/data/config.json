@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gartenbauleichtgemacht.de",
     "hostname": "https://www.gartenbauleichtgemacht.de/",
     "email": "gartenbauleichtgemacht.de@surrealnetworks.io",
     "organization": "gartenbauleichtgemacht.de",
     "logoText": "Gartenbauleichtgemacht.de",
-    "title": "Gartenbau",
-    "subline": "Der Online Shop für Gartenbau",
+    "title": "Gartengestaltung",
+    "subline": "Der Online Shop für Gartengestaltung ",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenbau",
-        "featureText": "Gartenbau ist ein Fachgeschäft für Gartenbedarf und Pflanzen. Hier finden Sie alles, was Sie für Ihren Garten benötigen. Vom Rasenmäher bis zur Gartenschaufel haben wir alles, was Sie brauchen. Wir führen auch eine große Auswahl an Pflanzen, die perfekt für Ihren Garten geeignet sind. Kommen Sie vorbei und lassen Sie sich von unseren Experten beraten.",
+        "featureText": "Haben Sie Lust auf eine Umgestaltung oder gar eine Neuanlage Ihres Gartens? Bei uns finden Sie alle Elemente, die Sie für die Umsetzung Ihrer Pläne benötigen. Gehwege, Zäune, Mauern, Stufen, Terrassen und vieles mehr - lassen Sie sich von unserem umfangreichen Sortiment überzeugen. \nUnser Shop ist übersichtlich in Rubriken gegliedert. Klicken Sie sich doch einfach mal durch unser Angebot! ",
         "index": {
-            "title": "Gartenbau-Shop: Alles für Ihren Garten!",
-            "metaDescription": "Gartenbau-Shop: Alles für Ihren Garten! Pflanzen, Bäume, Sträucher, Gartengeräte und mehr. Schnelle Lieferung und kompetente Beratung.",
+            "title": "Gartenbau - Bauelemente einfach online kaufen ",
+            "metaDescription": "Wir bieten alles was für den Gartenbau benötigt wird | weitreichendes Sortiment: Zäune jeglicher Art + Zubehör, Terrassen- & Gehwegplatten, Kantsteine uvm. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Gartenbau-Shop: Alles für Ihren Garten!",
-            "metaDescription": "Gartenbau-Shop: Alles für Ihren Garten! Pflanzen, Bäume, Sträucher, Gartengeräte und mehr.",
+            "title": "Der Shop für den Gartenbau",
+            "metaDescription": "Online Shop für Gartenbau-Elemente: Zäune, Mauern, Terrassen, Gehwege, Beete uvm. | einfache Produktsuche | günstige Preise | schnelle Lieferung",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gartenbau manufacturer",
-            "metaDescription": "Gartenbau ist ein deutscher Hersteller von hochwertigen Gartengeräten.",
+            "title": "Eine Auflistung unserer Hersteller für Gartenbau ",
+            "metaDescription": "Hochwertige Produkte von renommierten Herstellern wie: Spax, Rettenmeier, Andrewex, Bellissa, Diephaus, EHL uvm. | Überzeugen Sie sich von unserer Auswahl! ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT für den Gartenbau",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihren $KATEGORIE. Schnell und einfach zu installieren.",
+        "defaultTitle": "$PRODUKT für den Garten",
+        "defaultMetaDescription": "$PRODUKT vom Top Hersteller $HERSTELLER ist die richtige Wahl, wenn es um $KATEGORIE geht | hochwertige Qualität zum fairen Preis.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Alles für den Garten - Jetzt online kaufen bei OBI",
-        "defaultMetaDescription": "Gartenbau $KATEGORIE – Alles für Ihren Garten. Pflanzen, Gartengeräte und mehr. Jetzt entdecken!",
+        "defaultTitle": "$KATEGORIE: Alles für den Garten",
+        "defaultMetaDescription": "Finden Sie viele tolle Produkte in der Kategorie $KATEGORIE | hochwertige Produkte für langanhaltende Freude und eine tolle Zeit im Garten.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Gartenbausätzen und -zubehör. Wir bieten alles, was Sie für Ihren Garten benötigen, von Pflanzen und Blumen über Gartengeräte und -möbel bis hin zu Gartenbeleuchtung.",
+        "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis ",
+        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller, wenn es um das Thema Garten geht | Bei uns finden Sie eine große Auswahl an Produkten von $HERSTELLER.",
         "defaultRobots": "index, follow",
         "brands": [
             {
