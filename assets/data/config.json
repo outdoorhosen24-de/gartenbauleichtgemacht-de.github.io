@@ -52,11 +52,55 @@
             "metaDescription": "Wir bieten alles was für den Gartenbau benötigt wird | weitreichendes Sortiment: Zäune jeglicher Art + Zubehör, Terrassen- & Gehwegplatten, Kantsteine uvm. ",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Gartenbau: Die Kunst, einen Garten zu gestalten",
-                        "text": "Gartenbau ist die Kunst, einen Garten anzulegen und zu pflegen. Die meisten Menschen denken, dass Gartenbau nur ein Hobby ist, aber es ist viel mehr als das. Gartenbau ist eine Lebensweise. Es ist eine Kunst, die uns mit der Natur verbindet und uns hilft, uns selbst zu finden.\n\nGartenbau ist eine alte Kunst. Schon die alten Römer und Griechen wussten, wie man einen Garten anlegt und pflegt. In den letzten Jahren ist Gartenbau jedoch zu einer modernen Kunstform geworden. Heute gibt es Gärtner, die ihr ganzes Leben dem Gartenbau widmen. Sie experimentieren mit verschiedenen Pflanzen und Arten, um die perfekte Mischung zu finden.\n\nGartenbau ist nicht nur eine Kunst, sondern auch eine Wissenschaft. Gärtner müssen viel über Pflanzen und ihre Bedürfnisse lernen. Sie müssen wissen, wie man Pflanzen richtig pflegt und wässert. Auch das Klima spielt eine wichtige Rolle beim Gartenbau. Gärtner müssen die richtigen Pflanzen für ihren Garten auswählen, damit sie in der jeweiligen Klimazone gut gedeihen.\n\nGartenbau ist auch eine Form der Meditation. Viele Menschen finden in der Arbeit mit den Pflanzen eine innere Ruhe. Die Nähe zur Natur hilft ihnen, sich selbst besser kennenzulernen und zu verstehen. Gartenbau ist eine tolle Möglichkeit,"
+                        "title": "Willkommen bei Gartenbau leicht gemacht!",
+                        "text": "Herzlich willkommen bei Gartenbau leicht gemacht, Ihrem Online-Shop für alles, was Sie für Ihren Garten brauchen. Wir bieten Ihnen eine große Auswahl an Terrassendielen, Zubehör für Zaunbau und Sichtschutz, Zierkies und Ziersplitt, Gartenzäune, Einfassungen, Stufen und Mauersysteme, Sichtschutzzäune, Pflastersteine, Terrassenplatten und Gehwegplatten, Trittsteine, Holzfliesen und Pflanzsteinen. Unsere Produkte sind von höchster Qualität und werden von uns sorgfältig ausgewählt, um Ihnen das bestmögliche Einkaufserlebnis zu bieten. Wir möchten, dass Sie sich bei uns wohl fühlen und Ihre Gartenprojekte mit Freude und Leichtigkeit umsetzen können. Schauen Sie sich in Ruhe um und lassen Sie sich von unseren Produkten inspirieren. Sollten Sie Fragen haben, steht Ihnen unser kompetentes Team jederzeit zur Verfügung. Viel Spaß beim Einkaufen bei Gartenbau leicht gemacht!"
+                    },
+                    {
+                        "title": "Terrassendielen",
+                        "text": "<a href=\"/kategorie/terrassendielen/\" title=\"Terrassendielen\">Terrassendielen</a> sind ein wichtiger Bestandteil für jeden Garten. Sie sorgen für eine angenehme Atmosphäre und eine praktische Fläche zum Entspannen. Unsere Terrassendielen sind aus hochwertigen Materialien gefertigt und bieten langlebige Haltbarkeit und Schutz vor Wettereinflüssen. Entdecken Sie jetzt unsere große Auswahl an Terrassendielen in verschiedenen Farben und Größen."
+                    },
+                    {
+                        "title": "Zubehör für Zaunbau & Sichtschutz",
+                        "text": "Für den Zaunbau und Sichtschutz benötigen Sie das richtige Zubehör. Unser Sortiment an <a href=\"/kategorie/zubehoer-fuer-zaunbau-&-sichtschutz/\" title=\"Zubehör für Zaunbau & Sichtschutz\">Zubehör für Zaunbau & Sichtschutz</a> bietet alles, was Sie benötigen, um Ihren Garten optimal zu schützen und zu gestalten. Von Befestigungen über Pfosten bis hin zu Schrauben und Nägeln finden Sie bei uns alles, was Sie benötigen. Überzeugen Sie sich jetzt von unserer großen Auswahl an hochwertigem Zubehör für Zaunbau & Sichtschutz."
+                    },
+                    {
+                        "title": "Zierkies & Ziersplitt",
+                        "text": "Zierkies und Ziersplitt sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und können auch als Mulch verwendet werden. Unsere <a href=\"/kategorie/zierkies-&-ziersplitt/\" title=\"Zierkies & Ziersplitt\">Zierkies & Ziersplitt</a>-Produkte sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Zierkies & Ziersplitt und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Gartenzäune",
+                        "text": "<a href=\"/kategorie/gartenzaeune/\" title=\"Gartenzäune\">Gartenzäune</a> sind ein wichtiger Bestandteil für jeden Garten. Sie bieten Schutz und Privatsphäre und tragen zur Optik bei. Unsere Gartenzäune sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Gartenzäunen und finden Sie den perfekten Zaun für Ihren Garten."
+                    },
+                    {
+                        "title": "Einfassungen, Stufen & Mauersysteme",
+                        "text": "<a href=\"/kategorie/einfassungen,-stufen-&-mauersysteme/\" title=\"Einfassungen, Stufen & Mauersysteme\">Einfassungen, Stufen & Mauersysteme</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalität. Unsere Einfassungen, Stufen & Mauersysteme sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Einfassungen, Stufen & Mauersystemen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Sichtschutzzäune",
+                        "text": "<a href=\"/kategorie/sichtschutzzaeune/\" title=\"Sichtschutzzäune\">Sichtschutzzäune</a> sind ein wichtiger Bestandteil für jeden Garten. Sie bieten Schutz und Privatsphäre und tragen zur Optik bei. Unsere Sichtschutzzäune sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Sichtschutzzäunen und finden Sie den perfekten Zaun für Ihren Garten."
+                    },
+                    {
+                        "title": "Pflastersteine",
+                        "text": "<a href=\"/kategorie/pflastersteine/\" title=\"Pflastersteine\">Pflastersteine</a> sind ein wichtiger Bestandteil für jeden Garten. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Pflastersteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Pflastersteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Terrassenplatten & Gehwegplatten",
+                        "text": "<a href=\"/kategorie/terrassenplatten-&-gehwegplatten/\" title=\"Terrassenplatten & Gehwegplatten\">Terrassenplatten & Gehwegplatten</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Terrassenplatten & Gehwegplatten sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Terrassenplatten & Gehwegplatten und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Trittsteine",
+                        "text": "<a href=\"/kategorie/trittsteine/\" title=\"Trittsteine\">Trittsteine</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Trittsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Trittsteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Holzfliesen",
+                        "text": "<a href=\"/kategorie/holzfliesen/\" title=\"Holzfliesen\">Holzfliesen</a> sind ein wichtiger Bestandteil für jeden Garten. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Holzfliesen sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Holzfliesen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Pflanzsteine",
+                        "text": "<a href=\"/kategorie/pflanzsteine/\" title=\"Pflanzsteine\">Pflanzsteine</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalität. Unsere Pflanzsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Pflanzsteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
                     }
                 ]
             }
