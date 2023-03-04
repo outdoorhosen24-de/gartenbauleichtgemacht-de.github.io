@@ -9,7 +9,7 @@
     {
         "key": "zubehör für zaunbau & sichtschutz",
         "name": "Zubehör für Zaunbau & Sichtschutz",
-        "slug": "zubehor-fur-zaunbau-sichtschutz",
+        "slug": "zubehoer-fuer-zaunbau-sichtschutz",
         "productCategory": "Zubehör für Zaunbau & Sichtschutz",
         "subCategories": []
     },
@@ -23,7 +23,7 @@
     {
         "key": "gartenzäune",
         "name": "Gartenzäune",
-        "slug": "gartenzaune",
+        "slug": "gartenzaeune",
         "productCategory": "Gartenzäune",
         "subCategories": []
     },
@@ -37,7 +37,7 @@
     {
         "key": "sichtschutzzäune",
         "name": "Sichtschutzzäune",
-        "slug": "sichtschutzzaune",
+        "slug": "sichtschutzzaeune",
         "productCategory": "Sichtschutzzäune",
         "subCategories": []
     },
