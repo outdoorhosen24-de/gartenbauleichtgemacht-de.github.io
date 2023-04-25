@@ -1,208 +1,211 @@
 {
-    "configIsReady": true,
-    "domain": "gartenbauleichtgemacht.de",
-    "hostname": "https://www.gartenbauleichtgemacht.de/",
-    "email": "gartenbauleichtgemacht.de@surrealnetworks.io",
-    "organization": "gartenbauleichtgemacht.de",
-    "logoText": "Gartenbauleichtgemacht.de",
-    "title": "Gartengestaltung",
-    "subline": "Der Online Shop für Gartengestaltung ",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "9242199",
-        "5833850",
-        "3394418",
-        "7585078",
-        "1410893",
-        "8505026"
-    ],
-    "winnerProducts": [
-        "5838065",
-        "5831813",
-        "4013751"
-    ],
-    "featuredCategories": [
-        "Zierkies & Ziersplitt",
-        "Terrassenplatten & Gehwegplatten",
-        "Pflanzsteine",
-        "Trittsteine",
-        "Einfassungen, Stufen & Mauersysteme",
-        "Einfassungen, Stufen & Mauersysteme"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Gartenbau",
-        "featureText": "Haben Sie Lust auf eine Umgestaltung oder gar eine Neuanlage Ihres Gartens? Bei uns finden Sie alle Elemente, die Sie für die Umsetzung Ihrer Pläne benötigen. Gehwege, Zäune, Mauern, Stufen, Terrassen und vieles mehr - lassen Sie sich von unserem umfangreichen Sortiment überzeugen. \nUnser Shop ist übersichtlich in Rubriken gegliedert. Klicken Sie sich doch einfach mal durch unser Angebot! ",
-        "index": {
-            "title": "Gartenbau - Bauelemente einfach online kaufen ",
-            "metaDescription": "Wir bieten alles was für den Gartenbau benötigt wird | weitreichendes Sortiment: Zäune jeglicher Art + Zubehör, Terrassen- & Gehwegplatten, Kantsteine uvm. ",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Gartenbau leicht gemacht!",
-                        "text": "Herzlich willkommen bei Gartenbau leicht gemacht, Ihrem Online-Shop für alles, was Sie für Ihren Garten brauchen. Wir bieten Ihnen eine große Auswahl an Terrassendielen, Zubehör für Zaunbau und Sichtschutz, Zierkies und Ziersplitt, Gartenzäune, Einfassungen, Stufen und Mauersysteme, Sichtschutzzäune, Pflastersteine, Terrassenplatten und Gehwegplatten, Trittsteine, Holzfliesen und Pflanzsteinen. Unsere Produkte sind von höchster Qualität und werden von uns sorgfältig ausgewählt, um Ihnen das bestmögliche Einkaufserlebnis zu bieten. Wir möchten, dass Sie sich bei uns wohl fühlen und Ihre Gartenprojekte mit Freude und Leichtigkeit umsetzen können. Schauen Sie sich in Ruhe um und lassen Sie sich von unseren Produkten inspirieren. Sollten Sie Fragen haben, steht Ihnen unser kompetentes Team jederzeit zur Verfügung. Viel Spaß beim Einkaufen bei Gartenbau leicht gemacht!"
-                    },
-                    {
-                        "title": "Terrassendielen",
-                        "text": "<a href=\"/kategorie/terrassendielen/\" title=\"Terrassendielen\">Terrassendielen</a> sind ein wichtiger Bestandteil für jeden Garten. Sie sorgen für eine angenehme Atmosphäre und eine praktische Fläche zum Entspannen. Unsere Terrassendielen sind aus hochwertigen Materialien gefertigt und bieten langlebige Haltbarkeit und Schutz vor Wettereinflüssen. Entdecken Sie jetzt unsere große Auswahl an Terrassendielen in verschiedenen Farben und Größen."
-                    },
-                    {
-                        "title": "Zubehör für Zaunbau & Sichtschutz",
-                        "text": "Für den Zaunbau und Sichtschutz benötigen Sie das richtige Zubehör. Unser Sortiment an <a href=\"/kategorie/zubehoer-fuer-zaunbau-sichtschutz/\" title=\"Zubehör für Zaunbau & Sichtschutz\">Zubehör für Zaunbau & Sichtschutz</a> bietet alles, was Sie benötigen, um Ihren Garten optimal zu schützen und zu gestalten. Von Befestigungen über Pfosten bis hin zu Schrauben und Nägeln finden Sie bei uns alles, was Sie benötigen. Überzeugen Sie sich jetzt von unserer großen Auswahl an hochwertigem Zubehör für Zaunbau & Sichtschutz."
-                    },
-                    {
-                        "title": "Zierkies & Ziersplitt",
-                        "text": "Zierkies und Ziersplitt sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und können auch als Mulch verwendet werden. Unsere <a href=\"/kategorie/zierkies-ziersplitt/\" title=\"Zierkies & Ziersplitt\">Zierkies & Ziersplitt</a>-Produkte sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Zierkies & Ziersplitt und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
-                    },
-                    {
-                        "title": "Gartenzäune",
-                        "text": "<a href=\"/kategorie/gartenzaeune/\" title=\"Gartenzäune\">Gartenzäune</a> sind ein wichtiger Bestandteil für jeden Garten. Sie bieten Schutz und Privatsphäre und tragen zur Optik bei. Unsere Gartenzäune sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Gartenzäunen und finden Sie den perfekten Zaun für Ihren Garten."
-                    },
-                    {
-                        "title": "Einfassungen, Stufen & Mauersysteme",
-                        "text": "<a href=\"/kategorie/einfassungen-stufen-mauersysteme/\" title=\"Einfassungen, Stufen & Mauersysteme\">Einfassungen, Stufen & Mauersysteme</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalität. Unsere Einfassungen, Stufen & Mauersysteme sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Einfassungen, Stufen & Mauersystemen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
-                    },
-                    {
-                        "title": "Sichtschutzzäune",
-                        "text": "<a href=\"/kategorie/sichtschutzzaeune/\" title=\"Sichtschutzzäune\">Sichtschutzzäune</a> sind ein wichtiger Bestandteil für jeden Garten. Sie bieten Schutz und Privatsphäre und tragen zur Optik bei. Unsere Sichtschutzzäune sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Sichtschutzzäunen und finden Sie den perfekten Zaun für Ihren Garten."
-                    },
-                    {
-                        "title": "Pflastersteine",
-                        "text": "<a href=\"/kategorie/pflastersteine/\" title=\"Pflastersteine\">Pflastersteine</a> sind ein wichtiger Bestandteil für jeden Garten. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Pflastersteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Pflastersteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
-                    },
-                    {
-                        "title": "Terrassenplatten & Gehwegplatten",
-                        "text": "<a href=\"/kategorie/terrassenplatten-gehwegplatten/\" title=\"Terrassenplatten & Gehwegplatten\">Terrassenplatten & Gehwegplatten</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Terrassenplatten & Gehwegplatten sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Terrassenplatten & Gehwegplatten und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
-                    },
-                    {
-                        "title": "Trittsteine",
-                        "text": "<a href=\"/kategorie/trittsteine/\" title=\"Trittsteine\">Trittsteine</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Trittsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Trittsteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
-                    },
-                    {
-                        "title": "Holzfliesen",
-                        "text": "<a href=\"/kategorie/holzfliesen/\" title=\"Holzfliesen\">Holzfliesen</a> sind ein wichtiger Bestandteil für jeden Garten. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Holzfliesen sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Holzfliesen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
-                    },
-                    {
-                        "title": "Pflanzsteine",
-                        "text": "<a href=\"/kategorie/pflanzsteine/\" title=\"Pflanzsteine\">Pflanzsteine</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalität. Unsere Pflanzsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Pflanzsteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Shop für den Gartenbau",
-            "metaDescription": "Online Shop für Gartenbau-Elemente: Zäune, Mauern, Terrassen, Gehwege, Beete uvm. | einfache Produktsuche | günstige Preise | schnelle Lieferung",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Eine Auflistung unserer Hersteller für Gartenbau ",
-            "metaDescription": "Hochwertige Produkte von renommierten Herstellern wie: Spax, Rettenmeier, Andrewex, Bellissa, Diephaus, EHL uvm. | Überzeugen Sie sich von unserer Auswahl! ",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT für den Garten",
-        "defaultMetaDescription": "$PRODUKT vom Top Hersteller $HERSTELLER ist die richtige Wahl, wenn es um $KATEGORIE geht | hochwertige Qualität zum fairen Preis.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "gartenbauleichtgemacht.de",
+  "hostname": "https://www.gartenbauleichtgemacht.de/",
+  "email": "gartenbauleichtgemacht.de@surrealnetworks.io",
+  "organization": "gartenbauleichtgemacht.de",
+  "logoText": "Gartenbauleichtgemacht.de",
+  "title": "Gartengestaltung",
+  "subline": "Der Online Shop f\u00fcr Gartengestaltung ",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "9242199",
+    "5833850",
+    "3394418",
+    "7585078",
+    "1410893",
+    "8505026"
+  ],
+  "winnerProducts": [
+    "5838065",
+    "5831813",
+    "4013751"
+  ],
+  "featuredCategories": [
+    "Zierkies & Ziersplitt",
+    "Terrassenplatten & Gehwegplatten",
+    "Pflanzsteine",
+    "Trittsteine",
+    "Einfassungen, Stufen & Mauersysteme",
+    "Einfassungen, Stufen & Mauersysteme"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Gartenbau",
+    "featureText": "Haben Sie Lust auf eine Umgestaltung oder gar eine Neuanlage Ihres Gartens? Bei uns finden Sie alle Elemente, die Sie f\u00fcr die Umsetzung Ihrer Pl\u00e4ne ben\u00f6tigen. Gehwege, Z\u00e4une, Mauern, Stufen, Terrassen und vieles mehr - lassen Sie sich von unserem umfangreichen Sortiment \u00fcberzeugen. \nUnser Shop ist \u00fcbersichtlich in Rubriken gegliedert. Klicken Sie sich doch einfach mal durch unser Angebot! ",
+    "index": {
+      "title": "Gartenbau - Bauelemente einfach online kaufen ",
+      "metaDescription": "Wir bieten alles was f\u00fcr den Gartenbau ben\u00f6tigt wird | weitreichendes Sortiment: Z\u00e4une jeglicher Art + Zubeh\u00f6r, Terrassen- & Gehwegplatten, Kantsteine uvm. ",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Gartenbau leicht gemacht!",
+            "text": "Herzlich willkommen bei Gartenbau leicht gemacht, Ihrem Online-Shop f\u00fcr alles, was Sie f\u00fcr Ihren Garten brauchen. Wir bieten Ihnen eine gro\u00dfe Auswahl an Terrassendielen, Zubeh\u00f6r f\u00fcr Zaunbau und Sichtschutz, Zierkies und Ziersplitt, Gartenz\u00e4une, Einfassungen, Stufen und Mauersysteme, Sichtschutzz\u00e4une, Pflastersteine, Terrassenplatten und Gehwegplatten, Trittsteine, Holzfliesen und Pflanzsteinen. Unsere Produkte sind von h\u00f6chster Qualit\u00e4t und werden von uns sorgf\u00e4ltig ausgew\u00e4hlt, um Ihnen das bestm\u00f6gliche Einkaufserlebnis zu bieten. Wir m\u00f6chten, dass Sie sich bei uns wohl f\u00fchlen und Ihre Gartenprojekte mit Freude und Leichtigkeit umsetzen k\u00f6nnen. Schauen Sie sich in Ruhe um und lassen Sie sich von unseren Produkten inspirieren. Sollten Sie Fragen haben, steht Ihnen unser kompetentes Team jederzeit zur Verf\u00fcgung. Viel Spa\u00df beim Einkaufen bei Gartenbau leicht gemacht!"
+          },
+          {
+            "title": "Terrassendielen",
+            "text": "<a href=\"/kategorie/terrassendielen/\" title=\"Terrassendielen\">Terrassendielen</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie sorgen f\u00fcr eine angenehme Atmosph\u00e4re und eine praktische Fl\u00e4che zum Entspannen. Unsere Terrassendielen sind aus hochwertigen Materialien gefertigt und bieten langlebige Haltbarkeit und Schutz vor Wettereinfl\u00fcssen. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Terrassendielen in verschiedenen Farben und Gr\u00f6\u00dfen."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz",
+            "text": "F\u00fcr den Zaunbau und Sichtschutz ben\u00f6tigen Sie das richtige Zubeh\u00f6r. Unser Sortiment an <a href=\"/kategorie/zubehoer-fuer-zaunbau-sichtschutz/\" title=\"Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz\">Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz</a> bietet alles, was Sie ben\u00f6tigen, um Ihren Garten optimal zu sch\u00fctzen und zu gestalten. Von Befestigungen \u00fcber Pfosten bis hin zu Schrauben und N\u00e4geln finden Sie bei uns alles, was Sie ben\u00f6tigen. \u00dcberzeugen Sie sich jetzt von unserer gro\u00dfen Auswahl an hochwertigem Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz."
+          },
+          {
+            "title": "Zierkies & Ziersplitt",
+            "text": "Zierkies und Ziersplitt sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und k\u00f6nnen auch als Mulch verwendet werden. Unsere <a href=\"/kategorie/zierkies-ziersplitt/\" title=\"Zierkies & Ziersplitt\">Zierkies & Ziersplitt</a>-Produkte sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Zierkies & Ziersplitt und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+          },
+          {
+            "title": "Gartenz\u00e4une",
+            "text": "<a href=\"/kategorie/gartenzaeune/\" title=\"Gartenz\u00e4une\">Gartenz\u00e4une</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie bieten Schutz und Privatsph\u00e4re und tragen zur Optik bei. Unsere Gartenz\u00e4une sind aus hochwertigen Materialien gefertigt und in verschiedenen Gr\u00f6\u00dfen und Designs erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Gartenz\u00e4unen und finden Sie den perfekten Zaun f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Einfassungen, Stufen & Mauersysteme",
+            "text": "<a href=\"/kategorie/einfassungen-stufen-mauersysteme/\" title=\"Einfassungen, Stufen & Mauersysteme\">Einfassungen, Stufen & Mauersysteme</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalit\u00e4t. Unsere Einfassungen, Stufen & Mauersysteme sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Designs erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Einfassungen, Stufen & Mauersystemen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+          },
+          {
+            "title": "Sichtschutzz\u00e4une",
+            "text": "<a href=\"/kategorie/sichtschutzzaeune/\" title=\"Sichtschutzz\u00e4une\">Sichtschutzz\u00e4une</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie bieten Schutz und Privatsph\u00e4re und tragen zur Optik bei. Unsere Sichtschutzz\u00e4une sind aus hochwertigen Materialien gefertigt und in verschiedenen Gr\u00f6\u00dfen und Designs erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Sichtschutzz\u00e4unen und finden Sie den perfekten Zaun f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Pflastersteine",
+            "text": "<a href=\"/kategorie/pflastersteine/\" title=\"Pflastersteine\">Pflastersteine</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Pflastersteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Pflastersteinen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+          },
+          {
+            "title": "Terrassenplatten & Gehwegplatten",
+            "text": "<a href=\"/kategorie/terrassenplatten-gehwegplatten/\" title=\"Terrassenplatten & Gehwegplatten\">Terrassenplatten & Gehwegplatten</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Terrassenplatten & Gehwegplatten sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Terrassenplatten & Gehwegplatten und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+          },
+          {
+            "title": "Trittsteine",
+            "text": "<a href=\"/kategorie/trittsteine/\" title=\"Trittsteine\">Trittsteine</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Trittsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Trittsteinen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+          },
+          {
+            "title": "Holzfliesen",
+            "text": "<a href=\"/kategorie/holzfliesen/\" title=\"Holzfliesen\">Holzfliesen</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Holzfliesen sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Holzfliesen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+          },
+          {
+            "title": "Pflanzsteine",
+            "text": "<a href=\"/kategorie/pflanzsteine/\" title=\"Pflanzsteine\">Pflanzsteine</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalit\u00e4t. Unsere Pflanzsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Pflanzsteinen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Alles für den Garten",
-        "defaultMetaDescription": "Finden Sie viele tolle Produkte in der Kategorie $KATEGORIE | hochwertige Produkte für langanhaltende Freude und eine tolle Zeit im Garten.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Shop f\u00fcr den Gartenbau",
+      "metaDescription": "Online Shop f\u00fcr Gartenbau-Elemente: Z\u00e4une, Mauern, Terrassen, Gehwege, Beete uvm. | einfache Produktsuche | g\u00fcnstige Preise | schnelle Lieferung",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis ",
-        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller, wenn es um das Thema Garten geht | Bei uns finden Sie eine große Auswahl an Produkten von $HERSTELLER.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Gartenbau",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Gartenbau Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Gartenbau Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Eine Auflistung unserer Hersteller f\u00fcr Gartenbau ",
+      "metaDescription": "Hochwertige Produkte von renommierten Herstellern wie: Spax, Rettenmeier, Andrewex, Bellissa, Diephaus, EHL uvm. | \u00dcberzeugen Sie sich von unserer Auswahl! ",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT f\u00fcr den Garten",
+    "defaultMetaDescription": "$PRODUKT vom Top Hersteller $HERSTELLER ist die richtige Wahl, wenn es um $KATEGORIE geht | hochwertige Qualit\u00e4t zum fairen Preis.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE: Alles f\u00fcr den Garten",
+    "defaultMetaDescription": "Finden Sie viele tolle Produkte in der Kategorie $KATEGORIE | hochwertige Produkte f\u00fcr langanhaltende Freude und eine tolle Zeit im Garten.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Qualit\u00e4t zum fairen Preis ",
+    "defaultMetaDescription": "$HERSTELLER ist f\u00fchrender Hersteller, wenn es um das Thema Garten geht | Bei uns finden Sie eine gro\u00dfe Auswahl an Produkten von $HERSTELLER.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Gartenbau",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Gartenbau Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Gartenbau Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
