@@ -6,7 +6,7 @@
   "organization": "gartenbauleichtgemacht.de",
   "logoText": "Gartenbauleichtgemacht.de",
   "title": "Gartengestaltung",
-  "subline": "Der Online Shop f\u00fcr Gartengestaltung ",
+  "subline": "Der Online Shop für Gartengestaltung ",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -22,7 +22,11 @@
     "1410893",
     "8505026"
   ],
-  "winnerProducts": ["5838065", "5831813", "4013751"],
+  "winnerProducts": [
+    "5838065",
+    "5831813",
+    "4013751"
+  ],
   "featuredCategories": [
     "Zierkies & Ziersplitt",
     "Terrassenplatten & Gehwegplatten",
@@ -33,83 +37,88 @@
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
-  "checklist": ["Material", "Komfort", "Funktion", "Haltbarkeit"],
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Gartenbau",
-    "featureText": "Haben Sie Lust auf eine Umgestaltung oder gar eine Neuanlage Ihres Gartens? Bei uns finden Sie alle Elemente, die Sie f\u00fcr die Umsetzung Ihrer Pl\u00e4ne ben\u00f6tigen. Gehwege, Z\u00e4une, Mauern, Stufen, Terrassen und vieles mehr - lassen Sie sich von unserem umfangreichen Sortiment \u00fcberzeugen. \nUnser Shop ist \u00fcbersichtlich in Rubriken gegliedert. Klicken Sie sich doch einfach mal durch unser Angebot! ",
+    "featureText": "Haben Sie Lust auf eine Umgestaltung oder gar eine Neuanlage Ihres Gartens? Bei uns finden Sie alle Elemente, die Sie für die Umsetzung Ihrer Pläne benötigen. Gehwege, Zäune, Mauern, Stufen, Terrassen und vieles mehr - lassen Sie sich von unserem umfangreichen Sortiment überzeugen. \nUnser Shop ist übersichtlich in Rubriken gegliedert. Klicken Sie sich doch einfach mal durch unser Angebot! ",
     "index": {
       "title": "Gartenbau - Bauelemente einfach online kaufen ",
-      "metaDescription": "Wir bieten alles was f\u00fcr den Gartenbau ben\u00f6tigt wird | weitreichendes Sortiment: Z\u00e4une jeglicher Art + Zubeh\u00f6r, Terrassen- & Gehwegplatten, Kantsteine uvm. ",
+      "metaDescription": "Wir bieten alles was für den Gartenbau benötigt wird | weitreichendes Sortiment: Zäune jeglicher Art + Zubehör, Terrassen- & Gehwegplatten, Kantsteine uvm. ",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
             "title": "Willkommen bei Gartenbau leicht gemacht!",
-            "text": "Herzlich willkommen bei Gartenbau leicht gemacht, Ihrem Online-Shop f\u00fcr alles, was Sie f\u00fcr Ihren Garten brauchen. Wir bieten Ihnen eine gro\u00dfe Auswahl an Terrassendielen, Zubeh\u00f6r f\u00fcr Zaunbau und Sichtschutz, Zierkies und Ziersplitt, Gartenz\u00e4une, Einfassungen, Stufen und Mauersysteme, Sichtschutzz\u00e4une, Pflastersteine, Terrassenplatten und Gehwegplatten, Trittsteine, Holzfliesen und Pflanzsteinen. Unsere Produkte sind von h\u00f6chster Qualit\u00e4t und werden von uns sorgf\u00e4ltig ausgew\u00e4hlt, um Ihnen das bestm\u00f6gliche Einkaufserlebnis zu bieten. Wir m\u00f6chten, dass Sie sich bei uns wohl f\u00fchlen und Ihre Gartenprojekte mit Freude und Leichtigkeit umsetzen k\u00f6nnen. Schauen Sie sich in Ruhe um und lassen Sie sich von unseren Produkten inspirieren. Sollten Sie Fragen haben, steht Ihnen unser kompetentes Team jederzeit zur Verf\u00fcgung. Viel Spa\u00df beim Einkaufen bei Gartenbau leicht gemacht!"
+            "text": "Herzlich willkommen bei Gartenbau leicht gemacht, Ihrem Online-Shop für alles, was Sie für Ihren Garten brauchen. Wir bieten Ihnen eine große Auswahl an Terrassendielen, Zubehör für Zaunbau und Sichtschutz, Zierkies und Ziersplitt, Gartenzäune, Einfassungen, Stufen und Mauersysteme, Sichtschutzzäune, Pflastersteine, Terrassenplatten und Gehwegplatten, Trittsteine, Holzfliesen und Pflanzsteinen. Unsere Produkte sind von höchster Qualität und werden von uns sorgfältig ausgewählt, um Ihnen das bestmögliche Einkaufserlebnis zu bieten. Wir möchten, dass Sie sich bei uns wohl fühlen und Ihre Gartenprojekte mit Freude und Leichtigkeit umsetzen können. Schauen Sie sich in Ruhe um und lassen Sie sich von unseren Produkten inspirieren. Sollten Sie Fragen haben, steht Ihnen unser kompetentes Team jederzeit zur Verfügung. Viel Spaß beim Einkaufen bei Gartenbau leicht gemacht!"
           },
           {
             "title": "Terrassendielen",
-            "text": "<a href=\"/kategorie/terrassendielen/\" title=\"Terrassendielen\">Terrassendielen</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie sorgen f\u00fcr eine angenehme Atmosph\u00e4re und eine praktische Fl\u00e4che zum Entspannen. Unsere Terrassendielen sind aus hochwertigen Materialien gefertigt und bieten langlebige Haltbarkeit und Schutz vor Wettereinfl\u00fcssen. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Terrassendielen in verschiedenen Farben und Gr\u00f6\u00dfen."
+            "text": "<a href=\"/kategorie/terrassendielen/\" title=\"Terrassendielen\">Terrassendielen</a> sind ein wichtiger Bestandteil für jeden Garten. Sie sorgen für eine angenehme Atmosphäre und eine praktische Fläche zum Entspannen. Unsere Terrassendielen sind aus hochwertigen Materialien gefertigt und bieten langlebige Haltbarkeit und Schutz vor Wettereinflüssen. Entdecken Sie jetzt unsere große Auswahl an Terrassendielen in verschiedenen Farben und Größen."
           },
           {
-            "title": "Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz",
-            "text": "F\u00fcr den Zaunbau und Sichtschutz ben\u00f6tigen Sie das richtige Zubeh\u00f6r. Unser Sortiment an <a href=\"/kategorie/zubehoer-fuer-zaunbau-sichtschutz/\" title=\"Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz\">Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz</a> bietet alles, was Sie ben\u00f6tigen, um Ihren Garten optimal zu sch\u00fctzen und zu gestalten. Von Befestigungen \u00fcber Pfosten bis hin zu Schrauben und N\u00e4geln finden Sie bei uns alles, was Sie ben\u00f6tigen. \u00dcberzeugen Sie sich jetzt von unserer gro\u00dfen Auswahl an hochwertigem Zubeh\u00f6r f\u00fcr Zaunbau & Sichtschutz."
+            "title": "Zubehör für Zaunbau & Sichtschutz",
+            "text": "Für den Zaunbau und Sichtschutz benötigen Sie das richtige Zubehör. Unser Sortiment an <a href=\"/kategorie/zubehoer-fuer-zaunbau-sichtschutz/\" title=\"Zubehör für Zaunbau & Sichtschutz\">Zubehör für Zaunbau & Sichtschutz</a> bietet alles, was Sie benötigen, um Ihren Garten optimal zu schützen und zu gestalten. Von Befestigungen über Pfosten bis hin zu Schrauben und Nägeln finden Sie bei uns alles, was Sie benötigen. Überzeugen Sie sich jetzt von unserer großen Auswahl an hochwertigem Zubehör für Zaunbau & Sichtschutz."
           },
           {
             "title": "Zierkies & Ziersplitt",
-            "text": "Zierkies und Ziersplitt sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und k\u00f6nnen auch als Mulch verwendet werden. Unsere <a href=\"/kategorie/zierkies-ziersplitt/\" title=\"Zierkies & Ziersplitt\">Zierkies & Ziersplitt</a>-Produkte sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Zierkies & Ziersplitt und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+            "text": "Zierkies und Ziersplitt sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und können auch als Mulch verwendet werden. Unsere <a href=\"/kategorie/zierkies-ziersplitt/\" title=\"Zierkies & Ziersplitt\">Zierkies & Ziersplitt</a>-Produkte sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Zierkies & Ziersplitt und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
           },
           {
-            "title": "Gartenz\u00e4une",
-            "text": "<a href=\"/kategorie/gartenzaeune/\" title=\"Gartenz\u00e4une\">Gartenz\u00e4une</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie bieten Schutz und Privatsph\u00e4re und tragen zur Optik bei. Unsere Gartenz\u00e4une sind aus hochwertigen Materialien gefertigt und in verschiedenen Gr\u00f6\u00dfen und Designs erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Gartenz\u00e4unen und finden Sie den perfekten Zaun f\u00fcr Ihren Garten."
+            "title": "Gartenzäune",
+            "text": "<a href=\"/kategorie/gartenzaeune/\" title=\"Gartenzäune\">Gartenzäune</a> sind ein wichtiger Bestandteil für jeden Garten. Sie bieten Schutz und Privatsphäre und tragen zur Optik bei. Unsere Gartenzäune sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Gartenzäunen und finden Sie den perfekten Zaun für Ihren Garten."
           },
           {
             "title": "Einfassungen, Stufen & Mauersysteme",
-            "text": "<a href=\"/kategorie/einfassungen-stufen-mauersysteme/\" title=\"Einfassungen, Stufen & Mauersysteme\">Einfassungen, Stufen & Mauersysteme</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalit\u00e4t. Unsere Einfassungen, Stufen & Mauersysteme sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Designs erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Einfassungen, Stufen & Mauersystemen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+            "text": "<a href=\"/kategorie/einfassungen-stufen-mauersysteme/\" title=\"Einfassungen, Stufen & Mauersysteme\">Einfassungen, Stufen & Mauersysteme</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalität. Unsere Einfassungen, Stufen & Mauersysteme sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Einfassungen, Stufen & Mauersystemen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
           },
           {
-            "title": "Sichtschutzz\u00e4une",
-            "text": "<a href=\"/kategorie/sichtschutzzaeune/\" title=\"Sichtschutzz\u00e4une\">Sichtschutzz\u00e4une</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie bieten Schutz und Privatsph\u00e4re und tragen zur Optik bei. Unsere Sichtschutzz\u00e4une sind aus hochwertigen Materialien gefertigt und in verschiedenen Gr\u00f6\u00dfen und Designs erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Sichtschutzz\u00e4unen und finden Sie den perfekten Zaun f\u00fcr Ihren Garten."
+            "title": "Sichtschutzzäune",
+            "text": "<a href=\"/kategorie/sichtschutzzaeune/\" title=\"Sichtschutzzäune\">Sichtschutzzäune</a> sind ein wichtiger Bestandteil für jeden Garten. Sie bieten Schutz und Privatsphäre und tragen zur Optik bei. Unsere Sichtschutzzäune sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Designs erhältlich. Entdecken Sie jetzt unsere große Auswahl an Sichtschutzzäunen und finden Sie den perfekten Zaun für Ihren Garten."
           },
           {
             "title": "Pflastersteine",
-            "text": "<a href=\"/kategorie/pflastersteine/\" title=\"Pflastersteine\">Pflastersteine</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Pflastersteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Pflastersteinen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+            "text": "<a href=\"/kategorie/pflastersteine/\" title=\"Pflastersteine\">Pflastersteine</a> sind ein wichtiger Bestandteil für jeden Garten. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Pflastersteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Pflastersteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
           },
           {
             "title": "Terrassenplatten & Gehwegplatten",
-            "text": "<a href=\"/kategorie/terrassenplatten-gehwegplatten/\" title=\"Terrassenplatten & Gehwegplatten\">Terrassenplatten & Gehwegplatten</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Terrassenplatten & Gehwegplatten sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Terrassenplatten & Gehwegplatten und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+            "text": "<a href=\"/kategorie/terrassenplatten-gehwegplatten/\" title=\"Terrassenplatten & Gehwegplatten\">Terrassenplatten & Gehwegplatten</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Terrassenplatten & Gehwegplatten sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Terrassenplatten & Gehwegplatten und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
           },
           {
             "title": "Trittsteine",
-            "text": "<a href=\"/kategorie/trittsteine/\" title=\"Trittsteine\">Trittsteine</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Trittsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Trittsteinen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+            "text": "<a href=\"/kategorie/trittsteine/\" title=\"Trittsteine\">Trittsteine</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Trittsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Trittsteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
           },
           {
             "title": "Holzfliesen",
-            "text": "<a href=\"/kategorie/holzfliesen/\" title=\"Holzfliesen\">Holzfliesen</a> sind ein wichtiger Bestandteil f\u00fcr jeden Garten. Sie dienen als praktische Fl\u00e4che und tragen zur Optik bei. Unsere Holzfliesen sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Holzfliesen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+            "text": "<a href=\"/kategorie/holzfliesen/\" title=\"Holzfliesen\">Holzfliesen</a> sind ein wichtiger Bestandteil für jeden Garten. Sie dienen als praktische Fläche und tragen zur Optik bei. Unsere Holzfliesen sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Holzfliesen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
           },
           {
             "title": "Pflanzsteine",
-            "text": "<a href=\"/kategorie/pflanzsteine/\" title=\"Pflanzsteine\">Pflanzsteine</a> sind wichtige Elemente f\u00fcr eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalit\u00e4t. Unsere Pflanzsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Pflanzsteinen und gestalten Sie Ihren Garten ganz nach Ihren W\u00fcnschen."
+            "text": "<a href=\"/kategorie/pflanzsteine/\" title=\"Pflanzsteine\">Pflanzsteine</a> sind wichtige Elemente für eine ansprechende Gartengestaltung. Sie dienen als dekoratives Element und bieten gleichzeitig eine praktische Funktionalität. Unsere Pflanzsteine sind aus hochwertigen Materialien gefertigt und in verschiedenen Farben und Größen erhältlich. Entdecken Sie jetzt unsere große Auswahl an Pflanzsteinen und gestalten Sie Ihren Garten ganz nach Ihren Wünschen."
           }
         ]
       }
     },
     "shop": {
-      "title": "Der Shop f\u00fcr den Gartenbau",
-      "metaDescription": "Online Shop f\u00fcr Gartenbau-Elemente: Z\u00e4une, Mauern, Terrassen, Gehwege, Beete uvm. | einfache Produktsuche | g\u00fcnstige Preise | schnelle Lieferung",
+      "title": "Der Shop für den Gartenbau",
+      "metaDescription": "Online Shop für Gartenbau-Elemente: Zäune, Mauern, Terrassen, Gehwege, Beete uvm. | einfache Produktsuche | günstige Preise | schnelle Lieferung",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Eine Auflistung unserer Hersteller f\u00fcr Gartenbau ",
-      "metaDescription": "Hochwertige Produkte von renommierten Herstellern wie: Spax, Rettenmeier, Andrewex, Bellissa, Diephaus, EHL uvm. | \u00dcberzeugen Sie sich von unserer Auswahl! ",
+      "title": "Eine Auflistung unserer Hersteller für Gartenbau ",
+      "metaDescription": "Hochwertige Produkte von renommierten Herstellern wie: Spax, Rettenmeier, Andrewex, Bellissa, Diephaus, EHL uvm. | Überzeugen Sie sich von unserer Auswahl! ",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT f\u00fcr den Garten",
-    "defaultMetaDescription": "$PRODUKT vom Top Hersteller $HERSTELLER ist die richtige Wahl, wenn es um $KATEGORIE geht | hochwertige Qualit\u00e4t zum fairen Preis.",
+    "defaultTitle": "$PRODUKT für den Garten",
+    "defaultMetaDescription": "$PRODUKT vom Top Hersteller $HERSTELLER ist die richtige Wahl, wenn es um $KATEGORIE geht | hochwertige Qualität zum fairen Preis.",
     "defaultRobots": "index, follow",
     "products": [
       {
@@ -128,16 +137,126 @@
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "5838065",
+        "seo": {
+          "texts": [
+            {
+              "title": "RoTaPlastes Eckpfosten f. DSM m. Boden- und Konterplatte L. Grün 88 x 6 x 4 cm",
+              "text": "<p class=\"justify\">Der RoTaPlastes Eckpfosten ist ein hochwertiger Eckpfosten, der speziell für den Einsatz mit Doppelstabmatten entwickelt wurde. Er ist passend für 83 cm hohe Doppelstabmatten und hat die Abmessungen 88 cm x 6 cm x 4 cm inklusive Konterplatte. Die Materialstärke beträgt 2 mm, was dem Pfosten eine hohe Stabilität und statische Sicherheit verleiht. Dieses Produkt aus dem Hause RoTaPlastes, einer renommierten Marke im Bereich Gartenzäune, erfüllt höchste Ansprüche und Industrienormen.</p><p class=\"justify\">Der Eckpfosten ist zum direkten Verschrauben auf festem Untergrund wie Beton oder Ähnlichem geeignet. Die hochwertige Verarbeitung des Qualitätsstahls bietet Stabilität und Langlebigkeit. Der Stahl ist sendzimirverzinkt nach DIN EN 10143, 8-fach gereinigt, phosphatiert und pulverbeschichtet. Dank dieser Prozesse erhält der Pfosten seinen ansprechenden grünen Farbton und ist gleichzeitig beständig gegen Witterungseinflüsse und Korrosion.</p><p class=\"justify\">Stabilität, Sicherheit und Optik sind die Highlights der RoTaPlastes Metallzaunsysteme. Die hochwertige Pulverbeschichtung trägt nicht nur zur ansprechenden Optik bei, sondern auch zur Langlebigkeit des gesamten Zaunsystems. Der Lieferumfang des Eckpfostens umfasst den Pfosten selbst, 6 x Haltebock, 3 x Schraube M8, 3 x Konterplatte, 3 x Schraube 4,5 mm, 3 x Konterplatte Kunststoff und eine Abdeckkappe.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 5 Sternen und über 441 positiven Kundenbewertungen ist dieses RoTaPlastes-Produkt ein hochgeschätztes Element für jedes Gartenprojekt, das auf eine perfekte Kombination aus Qualität, Design und Funktionalität setzt. Wenn Sie nach einer hochwertigen, zuverlässigen und optisch ansprechenden Zaunlösung suchen, ist der RoTaPlastes Eckpfosten genau das Richtige für Sie.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5831813",
+        "seo": {
+          "texts": [
+            {
+              "title": "RoTaPlastes Doppel-Gartentor 2 Flügel DSM mit Schloss Grün 300 cm x 120 cm",
+              "text": "<p class=\"justify\">Das RoTaPlastes Doppel-Gartentor 2 Flügel DSM mit Schloss in Grün ist eine ideale Lösung für alle, die auf der Suche nach einem hochwertigen und stabilen Gartentor für ihr Zuhause sind. Mit einer Gesamtbreite von 300 cm und einer Höhe von 120 cm bietet dieses Gartentor nicht nur ein ansprechendes Design, sondern auch ein hohes Maß an Sicherheit für Ihren Garten. Die doppelstabfüllung 6-5-6 mit einer 20 cm x 5 cm Maschung sorgt für zusätzliche Stabilität und Haltbarkeit des Tores.</p><p class=\"justify\">Das RoTaPlastes Doppel-Gartentor ist aus sendzimirverzinktem Qualitätsstahl nach DIN EN 10143 gefertigt und 8-fach gereinigt, phosphatiert und pulverbeschichtet. Diese hochwertige Verarbeitung und insbesondere die edle Pulverbeschichtung machen das Tor nicht nur optisch ansprechend, sondern auch äußerst widerstandsfähig gegen Wettereinflüsse und Korrosion. So bleibt Ihr Gartentor über viele Jahre hinweg in bestem Zustand.</p><p class=\"justify\">Der Lieferumfang des RoTaPlastes Doppel-Gartentors umfasst neben den beiden Torflügeln und den passenden Pfosten auch das Montagematerial sowie das Zubehör für eine einfache und schnelle Montage. Mit dem hochwertigen Zylinderschloss, das mit drei Schlüsseln geliefert wird, und der Edelstahlgriffgarnitur ist die Sicherheit Ihres Gartens gewährleistet. Zudem lässt sich der Anschlag des Tores einfach ändern, um Ihren individuellen Anforderungen gerecht zu werden.</p><p class=\"justify\">In Kombination mit passenden RoTaPlastes Zaunelementen, Sichtschutz und Sichtschutzstreifen können Sie Ihren Garten zu einer stilvollen und sicheren Wohlfühloase gestalten. Die hervorragende Qualität und das ansprechende Design machen das RoTaPlastes Doppel-Gartentor 2 Flügel DSM mit Schloss Grün 300 cm x 120 cm zu einer perfekten Wahl für Ihr Zuhause.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4013751",
+        "seo": {
+          "texts": [
+            {
+              "title": "Andrewex Sichtschutzzaun-Element Country Braun lasiert 180 cm x 180 cm",
+              "text": "<p class=\"justify\">Das Andrewex Sichtschutzzaun-Element Country Braun lasiert in der Größe 180 cm x 180 cm ist die ideale Lösung, um Ihren Garten vor neugierigen Blicken zu schützen und Ihre Privatsphäre zu wahren. Dieses hochwertige Produkt aus der renommierten Marke Andrewex überzeugt durch seine exzellente Verarbeitung und modernes Design. Der Sichtschutzzaun gehört zur Kategorie \"Sichtschutzzäune\" und ist eine perfekte Ergänzung für jeden Gartenbereich.</p><p class=\"justify\">Das 3-fach lasierte Holz sorgt für eine ansprechende, langlebige Optik des Zaunelements. Es ist wetterbeständig und hält somit auch extremen Witterungsbedingungen stand. Die Riffelbretter gewährleisten eine große blickdichte Grundfläche, während das Gitterornament an der Oberseite für eine offene und helle Gestaltung sorgt. Der Rahmenbogen wird aus wertvollem, wetterbeständig verleimtem und formstabilem Leimholz hergestellt. Die verwendeten Schrauben sind rostfrei und garantieren ebenfalls Wetterfestigkeit und Langlebigkeit.</p><p class=\"justify\">Um Ihren Sichtschutzzaun zu montieren, können Sie zusätzliche Elemente in verschiedenen Größen und Anschlusselemente (separat erhältlich) der Serie Country verwenden. Für eine sichere Montage benötigen Sie pro Sichtschutz-Element vier Flechtzaunhalter und die entsprechenden Schrauben (separat erhältlich).</p><p class=\"justify\">Bitte beachten Sie, dass es sich bei Holz um ein Naturmaterial handelt. Maserungen und Asteinwachsungen, leichte Trockenrisse und Farbunterschiede sind Ausdruck dieser Natürlichkeit und kein Grund für eine Reklamation. Das Produkt wurde mit einem Holzschutzmittel behandelt, um es vor holzzerstörenden Pilzen zu schützen. Vermeiden Sie jedoch den direkten Kontakt der Sichtschutzelemente mit dem Erdreich, um Holzschäden zu verhindern.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6311724",
+        "seo": {
+          "texts": [
+            {
+              "title": "EHL Terrassenplatte Bellaria Weiß-Anthrazit-nuanciert T x B x H: 80 cm x 40 cm x 5 cm",
+              "text": "<p class=\"justify\">Entdecken Sie die moderne und vielseitige EHL Terrassenplatte Bellaria in Weiß-Anthrazit-nuanciert, die sich perfekt für Ihre Garten- oder Terrassengestaltung eignet. Mit ihren Maßen von 80 cm x 40 cm x 5 cm ist sie ideal für den Bau von Terrassen, Gehwegen oder anderen Gartenflächen. Die Marke EHL steht für Qualität und zeitloses Design, was sich auch in diesem Produkt widerspiegelt.</p><p class=\"justify\">Die besondere Farbgebung und feinen Nuancierungen der Platte schaffen eine faszinierende Optik und lassen sich harmonisch in verschiedene Farbwelten integrieren. Die Terrassenplatte überzeugt auch mit ihrer hohen Verarbeitungsqualität und Langlebigkeit, was sie zu einer hervorragenden Wahl für Ihre Garten- oder Terrassengestaltung macht.</p><p class=\"justify\">Die EHL Terrassenplatte Bellaria ist in der Kategorie Terrassenplatten & Gehwegplatten einzuordnen und überzeugt bereits viele begeisterte Kunden. Mit 58 Bewertungen und einer durchschnittlichen Sternebewertung von 5 zeigt sich, dass diese Terrassenplatte sowohl ästhetisch als auch funktional vollends überzeugt.</p><p class=\"justify\">Verleihen Sie Ihrem Außenbereich mit der EHL Terrassenplatte Bellaria Weiß-Anthrazit-nuanciert eine zeitlose und elegante Note. Genießen Sie die Vorteile dieser hochwertigen Platte und verwandeln Sie Ihre Terrasse oder Ihren Gehweg in einen wahren Hingucker. Lassen Sie sich von der Qualität und dem modernen Design begeistern und wählen Sie die EHL Terrassenplatte Bellaria für Ihr Projekt.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1946102",
+        "seo": {
+          "texts": [
+            {
+              "title": "Kann Trittplatte Nativa Natursteinoptik Kalksteinfarben 56 cm x 42 cm x 4 cm",
+              "text": "<p class=\"justify\">Die Kann Trittplatte Nativa bietet in Natursteinoptik Kalksteinfarben eine attraktive und praktische Lösung für die Gestaltung von Gärten und Grünflächen. Mit den Maßen 56 cm x 42 cm x 4 cm ist sie bestens geeignet, um natürliche und dauerhafte Wege im Garten zu schaffen. Mit ihrer strukturierten Oberfläche überzeugt die Gehwegplatte durch eine natürliche Optik und fügt sich harmonisch in die Umgebung ein.</p><p class=\"justify\">Die Naturstein-Trittplatte besitzt eine Strukturoberfläche, die ihre naturverbundene Gestaltung unterstreicht und ideal den Charakter eines Gartens zur Geltung bringt. Darüber hinaus bietet die Gartentrittplatte die Rutschklasse R13, was bedeutet, dass sie auch bei Nässe hohe Trittsicherheit und Rutschwiderstand bietet, sodass Sie auch bei Regen sicher Ihren Rasen, Beete oder Terrasse betreten können.</p><p class=\"justify\">Die Verarbeitung aus Beton ermöglicht eine einfache Verlegung der Trittplatte. Von Beginn an bietet diese Platte ein stimmiges Gesamtbild in Ihrem Garten und eignet sich ideal für den Zugang zu verschiedenen Bereichen in Ihrer Grünanlage, beispielsweise zum Gemüsebeet, zur Mülltonnenbox oder zur Garage.</p><p class=\"justify\">Die Kann Trittplatte Nativa ist nicht nur ästhetisch ansprechend, sondern vereint auch Qualität und Funktionalität – dank ihrer robusten und langlebigen Materialien. Mit einer Vielzahl von beeindruckenden 5-Sterne-Bewertungen und 57 positiven Rezensionen von zufriedenen Kunden ist diese Gehwegplatte eine hervorragende Wahl für alle, die ihren Garten aufwerten und gestalten möchten.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4332003",
+        "seo": {
+          "texts": [
+            {
+              "title": "Terrassenplatte Feinsteinzeug Vero 2.0-Steinoptik Grau 50 x 100 x 2 cm",
+              "text": "<p class=\"justify\">Entdecken Sie die Terrassenplatte Feinsteinzeug Vero 2.0-Steinoptik Grau 50 x 100 x 2 cm, eine erstklassige Lösung für die Gestaltung von Terrassen und Gehwegen. Diese hochwertige Platte von Sonstige bietet vielseitige Einsatzmöglichkeiten und höchste Qualität. Mit ihrem modernen, natürlichen Design in grauer Quarzitoptik überzeugt sie durch eine charmante Ausstrahlung, die eine individuelle und klassische Gestaltung ermöglicht.</p><p class=\"justify\">Die Terrassenplatte zeichnet sich durch ein rechteckiges Format von 50 cm x 100 cm aus, das ein harmonisches Gesamtbild schafft und für ein gemütliches Ambiente sorgt. Hergestellt aus rektifiziertem Feinsteinzeug, ist die Platte besonders hochwertig und witterungsbeständig. Zudem zeigt sie eine hohe UV-Beständigkeit sowie eine hohe Rutschhemmung, die auch bei Nässe für einen festen Stand sorgt.</p><p class=\"justify\">Zur Pflege der Feinsteinzeugplatte empfiehlt sich eine regelmäßige Reinigung, um ihre Haltbarkeit zu fördern und eine gepflegte Optik zu erhalten. Verwenden Sie dafür tensidfreie Reiniger und gegebenenfalls einen Hochdruckreiniger mit speziellem Bürstenaufsatz, um Moos und Algen zu entfernen. Die Verlegung der Terrassenplatte ist dank ihres geringen Gewichts leicht und eignet sich für den Einsatz auf Drainagemörtel, losem Splittbett oder Stelzlagern. Um ein gleichmäßiges Fugenbild von 3 - 5 mm zu erzielen, sollten passende Fugenkreuze als Hilfsmittel verwendet werden.</p><p class=\"justify\">In der Kategorie Terrassenplatten & Gehwegplatten ist die Terrassenplatte Feinsteinzeug Vero 2.0-Steinoptik Grau 50 x 100 x 2 cm eine ausgezeichnete Option für alle, die Wert auf Qualität, modernes Design und Langlebigkeit legen. Werten Sie Ihren Garten mit dieser stilvollen Platte auf und schaffen Sie eine traumhafte Atmosphäre für Ihre Freizeitgestaltung im Freien.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8349904",
+        "seo": {
+          "texts": [
+            {
+              "title": "EHL Antik Mauerstein Großformat Anthrazit 25 cm x 12 cm x 15 cm",
+              "text": "<p class=\"justify\">Verleihen Sie Ihrem Garten ein einzigartiges und rustikales Erscheinungsbild mit dem EHL Antik Mauerstein Großformat Anthrazit. Dieser beeindruckende Mauerstein der Marke EHL, unter der SKU 8349904 und GTIN13 4036163511226, ist eine ausgezeichnete Ergänzung in der Kategorie Einfassungen, Stufen & Mauersysteme und ebnet den Weg, einen charmanten Außenbereich in Ihrem Zuhause zu schaffen.</p><p class=\"justify\">Der EHL Antik Mauerstein Großformat weist eine auf antik bearbeitete Oberfläche und ein rustikales Aussehen auf, was ihn zu einer idealen Wahl für verschiedene Gartenprojekte macht. Mit einer Größe von 25 cm x 12 cm x 15 cm passt dieser Mauerstein perfekt zum Abfangen kleiner Hänge, zum Erstellen von Mauern und zur Einfassung von Beeten. Durch die Verwendung dieser Mauersteine können Sie Ihrem Garten Persönlichkeit und Charakter verleihen, die Ihre Gäste staunen lassen.</p><p class=\"justify\">Die hochwertige Verarbeitung des EHL Antik Mauersteins Großformat Anthrazit sorgt für Langlebigkeit und Widerstandsfähigkeit gegen Witterungseinflüsse, sodass Sie sich darauf verlassen können, dass Ihre Gartengestaltung lange Zeit erhalten bleibt. Die anthrazitfarbene Oberfläche passt hervorragend zu verschiedenen Gartenstilen und sorgt zudem für ein edles Erscheinungsbild.</p><p class=\"justify\">Mit einer eindrucksvollen Bewertung von 5 Sternen und 477 Kundenbewertungen steht außer Frage, dass der EHL Antik Mauerstein Großformat Anthrazit bei Garteneigentümer sehr beliebt ist und häufig eine erstklassige Wahl darstellt. Integrieren Sie den EHL Antik Mauerstein Großformat Anthrazit in Ihr nächstes Gartenprojekt und freuen Sie sich ûer einen wunderschönen, scharmanten und langlebigen Gartenbereich.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6311799",
+        "seo": {
+          "texts": [
+            {
+              "title": "EHL Terrassenplatte Bellaria Muschelcreme T x B x H: 80 cm x 40 cm x 5 cm",
+              "text": "<p class=\"justify\">Die EHL Terrassenplatte Bellaria Muschelcreme T x B x H: 80 cm x 40 cm x 5 cm ist eine ausgezeichnete Wahl für alle, die ihre Terrasse oder ihren Gartenweg mit einer qualitativ hochwertigen Platte gestalten möchten. Die Marke EHL steht für hervorragende Qualität und bietet ein beeindruckendes Sortiment an unterschiedlichen Terrassen- und Gehwegplatten in verschiedenen Kategorien wie Gartenbau und Bauen. Die EHL Terrassenplatte Bellaria Muschelcreme ist eine besonders beliebte Wahl unter den Kunden, wie die 5-Sterne-Bewertung und die 190 Rezensionen zeigen.</p><p class=\"justify\">Die Terrassenplatte Bellaria Muschelcreme besticht durch ihre modernes Großformat und die trendigen Nuancierungen, die ihr eine faszinierende Optik verleihen. Sie lässt sich perfekt in viele verschiedene Farbwelten integrieren und bietet somit zahlreiche Gestaltungsmöglichkeiten für Ihren Außenbereich. Dank der Abmessungen von 80 cm x 40 cm x 5 cm können Sie sowohl kleine als auch große Flächen eindrucksvoll gestalten. </p><p class=\"justify\">Die EHL Terrassenplatte Bellaria Muschelcreme zeichnet sich zudem durch ihre Langlebigkeit und Widerstandsfähigkeit aus. Sie hält auch Witterungseinflüssen und Beanspruchung stand, sodass Sie lange Freude an Ihrer Terrasse oder Ihrem Gehweg haben werden. Mit der GTIN 4036163520792 können Sie sicher sein, dass Sie ein erstklassiges Produkt erhalten, das jedem Anspruch gerecht wird. </p><p class=\"justify\">Entscheiden Sie sich für die EHL Terrassenplatte Bellaria Muschelcreme T x B x H: 80 cm x 40 cm x 5 cm und verwandeln Sie Ihren Garten oder Ihre Terrasse in eine stilvolle und funktionale Oase. Egal, ob Sie ein modernes oder klassisches Design bevorzugen, mit dieser Terrassenplatte treffen Sie die perfekte Wahl.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2676054",
+        "seo": {
+          "texts": [
+            {
+              "title": "Terrassenplatte Feinsteinzeug Granito Black 60 x 60 x 2 cm 2 Stück",
+              "text": "<p class=\"justify\">Die Terrassenplatte Feinsteinzeug Granito Black der Marke Sonstige ist eine ideale Wahl für die Gestaltung Ihrer Terrasse oder Gehwege. Mit den Maßen 60 x 60 x 2 cm und der ansprechenden Natursteinoptik ist sie sowohl optisch ansprechend als auch praktisch. Sie eignet sich für die Verlegung auf verschiedenen Untergründen wie Stelzlager, klassisch verklebt oder lose verlegt auf Gras, Sand oder Kiesbett. Dadurch ist eine enorme Gestaltungsfreiheit möglich.</p><p class=\"justify\">Diese Terrassenplatte ist frostsicher und UV-beständig, so dass Sie eine langlebige und witterungsbeständige Lösung für Ihre Außenbereiche erhalten. Dank der hohen Rutschhemmung ist sie auch bei Nässe verlässlich und sicher. Die pflegeleichte Natursteinplatte bleibt lange schön und bedarf nur einer regelmäßigen Reinigung mit tensidfreien Reinigern. Bei stärkeren Verunreinigungen durch Moos und Algen kann ein Hochdruckreiniger mit speziellem Bürstenaufsatz verwendet werden.</p><p class=\"justify\">Die Verlegung dieser Terrassenplatte aus Feinsteinzeug gestaltet sich durch ihr geringes Gewicht als einfach. Sie kann auf Drainagemörtel, losem Splittbett oder Stelzlagern verlegt werden. Mit passenden Fugenkreuzen gelingt ein gleichmäßiges Fugenbild von 3 - 5 mm. Die Terrassenplatte bietet insgesamt eine ideale Mischung aus ansprechender Optik, Robustheit und praktischen Aspekten für Ihre Außenbereiche. Genießen Sie die vielen Vorteile, die diese Sonstige Terrassenplatte Feinsteinzeug Granito Black 60 x 60 x 2 cm Ihnen bietet, in Ihrem Zuhause.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6047906",
+        "seo": {
+          "texts": [
+            {
+              "title": "Terrassenplatte Feinsteinzeug Streetline Graphit 60 x 60 x 2 cm - 2 Stück",
+              "text": "<p class=\"justify\">Die Terrassenplatte Streetline Graphit aus Feinsteinzeug von Sonstige bietet eine hochwertige Lösung für die Gestaltung von Terrassen und Wegen. Mit einer Größe von 60 x 60 x 2 cm sind diese Platten ideal, um Ihrem Außenbereich ein modernes und stilvolles Ambiente zu verleihen. Zudem sind die Terrassenplatten aus Feinsteinzeug frostsicher, rutschhemmend und angenehm reinigungsfreundlich.</p><p class=\"justify\">Feinsteinzeug Terrassenplatten sind aufgrund ihres fest gepressten Materials besonders robust, witterungsbeständig und langlebig. Sie eignen sich perfekt für den Einsatz im Garten und überzeugen durch ihre natürliche Optik. Dazu ist das Material UV-beständig, sodass die Farben lange erhalten bleiben, und hat eine hohe Rutschfestigkeit, die auch bei Nässe für einen festen Stand sorgt. Die Pflege von Feinsteinzeugplatten ist im Allgemeinen sehr einfach. Eine regelmäßige Reinigung mit klarem Wasser oder handelsüblichem Reinigungsmittel trägt zur Langlebigkeit der Platten bei und erhält die gepflegte Optik.</p><p class=\"justify\">Die Verlegung von Feinsteinzeug Terrassenplatten gestaltet sich dank des geringen Plattengewichts als einfach und unkompliziert. Sie können auf Drainagemörtel, losem Splittbett oder Stelzlagern verlegt werden. Mit passenden Fugenkreuzen als Hilfsmittel lässt sich ein gleichmäßiges Fugenbild von 3 mm - 5 mm erzielen. Im Lieferumfang sind 2 Terrassenplatten mit den Maßen 60 cm x 60 cm x 2 cm (0,72 m²) enthalten.</p><p class=\"justify\">Durch die Verwendung von Terrassenplatten in dunklen Farbtönen, wie bei der Streetline Graphit Terrassenplatte, liegt man voll im Trend und wertet den Außenbereich optisch auf. Die Streetline Feinsteinzeugplatten sind auch in den Farbtönen Creme und Grau erhältlich, sodass Sie die perfekte Wahl für Ihre individuelle Gartengestaltung treffen können. Verwandeln Sie Ihre Terrasse oder Wege mit diesen qualitativ hochwertigen Terrassenplatten in eine moderne und einladende Umgebung, die zum Verweilen einlädt.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE: Alles f\u00fcr den Garten",
-    "defaultMetaDescription": "Finden Sie viele tolle Produkte in der Kategorie $KATEGORIE | hochwertige Produkte f\u00fcr langanhaltende Freude und eine tolle Zeit im Garten.",
+    "defaultTitle": "$KATEGORIE: Alles für den Garten",
+    "defaultMetaDescription": "Finden Sie viele tolle Produkte in der Kategorie $KATEGORIE | hochwertige Produkte für langanhaltende Freude und eine tolle Zeit im Garten.",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -145,8 +264,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -163,16 +282,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Qualit\u00e4t zum fairen Preis ",
-    "defaultMetaDescription": "$HERSTELLER ist f\u00fchrender Hersteller, wenn es um das Thema Garten geht | Bei uns finden Sie eine gro\u00dfe Auswahl an Produkten von $HERSTELLER.",
+    "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis ",
+    "defaultMetaDescription": "$HERSTELLER ist führender Hersteller, wenn es um das Thema Garten geht | Bei uns finden Sie eine große Auswahl an Produkten von $HERSTELLER.",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
