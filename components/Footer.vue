@@ -61,7 +61,9 @@
                   <nuxt-img
                     preset="footerThumbnail"
                     class="img-fluid bg-light p-1"
-                    :src="`${config.imageFolder}${product.localThumbs[0]}`"
+                    :src="product.localThumbs && product.localThumbs.length > 0
+                      ? `${config.imageFolder}${product.localThumbs[0].toString()}`
+                      : `${config.imageFolder}${product.localThumb}`"
                     :alt="product.linkTitle"
                   />
                 </NuxtLink>
