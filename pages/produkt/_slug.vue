@@ -26,7 +26,7 @@
             <button
               class="btn btn-primary py-3 px-5 snipcart-add-item"
               :data-item-id="product.name"
-              :data-item-price="product.price * config.snipcart.factor"
+              :data-item-price="calculatedPrice"
               :data-item-description="product.name"
               :data-item-url="config.hostname + 'produkt/' + slug"
               :data-item-image="
@@ -46,7 +46,7 @@
               <button
                 class="btn btn-primary py-3 px-5 snipcart-add-item"
                 :data-item-id="product.name"
-                :data-item-price="product.price * config.snipcart.factor"
+                :data-item-price="calculatedPrice"
                 :data-item-description="product.name"
                 :data-item-url="config.hostname + 'produkt/' + slug"
                 :data-item-image="
@@ -155,6 +155,11 @@ export default {
       affiliateLink: config.affiliate.defaultLink,
     };
   },
+  computed: {
+    calculatedPrice() {
+      return (this.product.price * this.config.snipcart.factor).toFixed(2);
+    },
+  },
   methods: {
     convertToWebp(url) {
       let dotIndex = url.lastIndexOf(".");
@@ -238,7 +243,7 @@ export default {
             "@type": "Offer",
             url: config.hostname + config.productUrl + this.product.slug + "/",
             priceCurrency: "EUR",
-            price: this.product.price * this.config.snipcart.factor,
+            price: this.calculatedPrice,
             priceValidUntil: "2024-11-20",
             itemCondition: "https://schema.org/NewCondition",
             availability: "https://schema.org/InStock",
