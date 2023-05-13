@@ -35,15 +35,21 @@
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
+              <button
+                class="btn btn-primary py-3 px-5 snipcart-add-item"
+                data-item-id="starry-night"
+                :data-item-price="product.price * 1.1"
+                :data-item-description="product.title"
+                :data-item-image="`${
+                  config.imageFolder + this.product.localThumb
+                }`"
+                :data-item-name="product.name"
                 target="_blank"
                 rel="nofollow noopener"
-                :href="affiliateLink"
                 style="display: block; width: 100%"
               >
                 {{ product.brand }} Online Shop
-              </a>
+              </button>
             </div>
           </div>
         </div>
@@ -170,7 +176,7 @@ export default {
     },
   },
   created() {
-    this.fetchAffiliateLink()
+    this.fetchAffiliateLink();
   },
   jsonld() {
     return {
