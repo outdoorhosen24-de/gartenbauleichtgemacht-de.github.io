@@ -23,32 +23,41 @@
             </div>
 
             <Checklist />
-            <a
-              class="btn btn-primary py-3 px-5"
+            <button
+              class="btn btn-primary py-3 px-5 snipcart-add-item"
+              :data-item-id="product.name"
+              :data-item-price="product.price * config.snipcart.factor"
+              :data-item-description="product.name"
+              :data-item-url="config.hostname + 'produkt/' + slug"
+              :data-item-image="
+                convertToWebp('/assets/images/' + this.product.localThumbs[0])
+              "
+              :data-item-name="product.name"
               target="_blank"
               rel="nofollow noopener"
-              :href="affiliateLink"
+              style="display: block; width: 100%"
             >
               Bestellen
-            </a>
+            </button>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
               <button
                 class="btn btn-primary py-3 px-5 snipcart-add-item"
-                data-item-id="starry-night"
-                :data-item-price="product.price * 1.1"
-                :data-item-description="product.title"
-                :data-item-image="`${
-                  config.imageFolder + this.product.localThumb
-                }`"
+                :data-item-id="product.name"
+                :data-item-price="product.price * config.snipcart.factor"
+                :data-item-description="product.name"
+                :data-item-url="config.hostname + 'produkt/' + slug"
+                :data-item-image="
+                  convertToWebp('/assets/images/' + this.product.localThumbs[0])
+                "
                 :data-item-name="product.name"
                 target="_blank"
                 rel="nofollow noopener"
                 style="display: block; width: 100%"
               >
-                {{ product.brand }} Online Shop
+                Bestellen
               </button>
             </div>
           </div>
@@ -137,6 +146,7 @@ export default {
       .slice(0, 12);
 
     return {
+      slug,
       product,
       config,
       seoData,
@@ -146,6 +156,13 @@ export default {
     };
   },
   methods: {
+    convertToWebp(url) {
+      let dotIndex = url.lastIndexOf(".");
+      if (dotIndex === -1) {
+        return url; // No extension found, return the original url.
+      }
+      return url.substr(0, dotIndex) + ".webp";
+    },
     async fetchAffiliateLink() {
       try {
         const response = await fetch(
@@ -221,7 +238,7 @@ export default {
             "@type": "Offer",
             url: config.hostname + config.productUrl + this.product.slug + "/",
             priceCurrency: "EUR",
-            price: this.product.price,
+            price: this.product.price * this.config.snipcart.factor,
             priceValidUntil: "2024-11-20",
             itemCondition: "https://schema.org/NewCondition",
             availability: "https://schema.org/InStock",

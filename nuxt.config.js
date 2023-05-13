@@ -36,7 +36,7 @@ export default {
                 innerHTML: `
                 window.SnipcartSettings = {
                     publicApiKey:
-                      "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy",
+                      "${config.snipcart.apiKeys.test}",
                     loadStrategy: "on-user-interaction",
                   };
               

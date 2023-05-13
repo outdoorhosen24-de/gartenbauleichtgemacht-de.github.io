@@ -14,6 +14,13 @@
   "numberOfProductsOnStartpage": 18,
   "numberMaximumProductsPerCategory": 100,
   "numberOfRelevantProduct": 12,
+  "snipcart": {
+    "apiKeys": {
+      "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+      "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+    },
+    "factor": 1.1
+  },
   "popularProducts": [
     "9242199",
     "5833850",

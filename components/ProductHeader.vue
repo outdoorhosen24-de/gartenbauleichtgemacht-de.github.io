@@ -81,7 +81,7 @@
             </p>
             <Checklist />
             <a class="btn btn-primary py-3 px-5 mt-2" href="#testbericht"
-              >Zum Testbericht</a
+              >Zum Produkt</a
             >
           </div>
         </div>
