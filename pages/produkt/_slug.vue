@@ -83,6 +83,7 @@
 import config from "~/assets/data/config.json";
 import products from "~/assets/data/products.json";
 import db from "~/utils/database.js";
+import calculatePrice from "~/modules/calculatePrice";
 
 function customEncodeURI(str) {
   return str.split(" ").join("+");
@@ -157,7 +158,7 @@ export default {
   },
   computed: {
     calculatedPrice() {
-      return (this.product.price * this.config.snipcart.factor).toFixed(2);
+      return calculatePrice(this.product.price);
     },
   },
   methods: {

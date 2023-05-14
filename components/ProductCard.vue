@@ -54,7 +54,7 @@
       <div class="sidebar-contact-info mt-4">
         <p class="mb-0">Preis</p>
         <div class="h3">
-          {{ parseFloat(product.price * config.snipcart.factor).toFixed(2) }}
+          {{ calculatedPrice }}
           EUR
         </div>
       </div>
@@ -66,6 +66,7 @@
 import config from "~/assets/data/config.json";
 import categories from "~/assets/data/categories.json";
 import brands from "~/assets/data/brands.json";
+import calculatePrice from "~/modules/calculatePrice";
 
 var he = require("he");
 
@@ -97,6 +98,11 @@ export default {
       categoryData,
       brandData,
     };
+  },
+  computed: {
+    calculatedPrice() {
+      return calculatePrice(this.product.price);
+    },
   },
   methods: {
     decode: function decodeEntity(str) {

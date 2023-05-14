@@ -38,6 +38,7 @@ export default {
                     publicApiKey:
                       "${config.snipcart.apiKeys.live}",
                     loadStrategy: "on-user-interaction",
+                    "currency": "eur",
                   };
               
                   (function () {
