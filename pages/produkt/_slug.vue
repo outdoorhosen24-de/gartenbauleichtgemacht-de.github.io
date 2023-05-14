@@ -30,7 +30,7 @@
               :data-item-description="product.name"
               :data-item-url="config.hostname + 'produkt/' + slug"
               :data-item-image="
-                convertToWebp('/assets/images/' + this.product.localThumbs[0])
+                convertToWebp('/assets/images/' + getProductImage())
               "
               :data-item-name="product.name"
               target="_blank"
@@ -50,7 +50,7 @@
                 :data-item-description="product.name"
                 :data-item-url="config.hostname + 'produkt/' + slug"
                 :data-item-image="
-                  convertToWebp('/assets/images/' + this.product.localThumbs[0])
+                  convertToWebp('/assets/images/' + getProductImage())
                 "
                 :data-item-name="product.name"
                 target="_blank"
@@ -137,7 +137,11 @@ export default {
     const slug = this.$route.params.slug;
     const product = db.products.getProductFromSlug(slug);
     const seoData = db.seo.getSeoForProduct(product);
-    const category = product.category;
+    const category =
+      product.category ||
+      (product.categories && product.categories.length > 1
+        ? product.categories[product.categories.length - 2]
+        : "Sonstige");
     // const relevantProducts = db.products.getRandomProductsFromCategory(
     //   category,
     //   config.numberOfRelevantProduct
@@ -162,6 +166,19 @@ export default {
     },
   },
   methods: {
+    getProductImage() {
+      if (this.product.localThumb) {
+        return this.product.localThumb;
+      } else if (
+        this.product.localThumbs &&
+        this.product.localThumbs.length > 0
+      ) {
+        return this.product.localThumbs[0];
+      } else {
+        // Return a default image url here, or just an empty string
+        return "";
+      }
+    },
     convertToWebp(url) {
       let dotIndex = url.lastIndexOf(".");
       if (dotIndex === -1) {

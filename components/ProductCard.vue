@@ -76,8 +76,11 @@ export default {
     product: Object,
   },
   data() {
-    const category = this.product.category;
-
+    const category =
+      this.product.category ||
+      (this.product.categories && this.product.categories.length > 1
+        ? this.product.categories[this.product.categories.length - 2]
+        : "Sonstige");
     // get the category object with its subcategories
     let categoryData = categories.find((x) => x.key === category.toLowerCase());
 
